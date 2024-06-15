@@ -1,0 +1,2186 @@
+
+.DashboardUI_DashboardUI {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(232,237,240,1.00);
+}
+.DashboardUI_DashboardUI .Group64 {
+	position: absolute;
+	left: 278px;
+	top: 44px;
+	width: 1100px;
+	height: 63px;
+}
+.DashboardUI_DashboardUI .Group64 .Rectangle72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 561px;
+	height: 63px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 30px;
+}
+.DashboardUI_DashboardUI .Group64 .Search {
+	position: absolute;
+	left: 18px;
+	top: 15px;
+	width: 41px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group64 .Search_1 {
+	position: absolute;
+	left: 77px;
+	top: 20px;
+	width: 69px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.DashboardUI_DashboardUI .Group64 .MaleUser {
+	position: absolute;
+	left: 1060px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group64 .Doorbell {
+	position: absolute;
+	left: 968px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Rectangle116 {
+	position: absolute;
+	left: 1097px;
+	top: 215px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle121 {
+	position: absolute;
+	left: 280px;
+	top: 875px;
+	width: 1134px;
+	height: 108px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle119 {
+	position: absolute;
+	left: 282px;
+	top: 149px;
+	width: 798px;
+	height: 306px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle120 {
+	position: absolute;
+	left: 280px;
+	top: 473px;
+	width: 801px;
+	height: 387px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Today {
+	position: absolute;
+	left: 1105px;
+	top: 143px;
+	width: 75px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: 500;
+	line-height: 30.475000381469727px;
+}
+.DashboardUI_DashboardUI .EthicalHacking {
+	position: absolute;
+	left: 1111px;
+	top: 231px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .ProfRajSharma {
+	position: absolute;
+	left: 1118px;
+	top: 285px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle117 {
+	position: absolute;
+	left: 1282px;
+	top: 282px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.DashboardUI_DashboardUI .June82024 {
+	position: absolute;
+	left: 1108px;
+	top: 175px;
+	width: 101px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI ._300400pm {
+	position: absolute;
+	left: 1128px;
+	top: 255px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.DashboardUI_DashboardUI .Join {
+	position: absolute;
+	left: 1321px;
+	top: 286px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle162 {
+	position: absolute;
+	left: 1311px;
+	top: 891px;
+	width: 73px;
+	height: 21.262136459350586px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 3.543689012527466px;
+}
+.DashboardUI_DashboardUI .ViewAll {
+	position: absolute;
+	left: 1321.6318359375px;
+	top: 895px;
+	width: 51.02912521362305px;
+	height: 16.30097198486328px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 11.339804649353027px;
+	font-weight: 400;
+	line-height: 13.823221206665039px;
+}
+.DashboardUI_DashboardUI .Rectangle182 {
+	position: absolute;
+	left: 980px;
+	top: 496px;
+	width: 73px;
+	height: 21.262136459350586px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 3.543689012527466px;
+}
+.DashboardUI_DashboardUI .ViewAll_1 {
+	position: absolute;
+	left: 990.6318359375px;
+	top: 500px;
+	width: 51.02912521362305px;
+	height: 16.30097198486328px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 11.339804649353027px;
+	font-weight: 400;
+	line-height: 13.823221206665039px;
+}
+.DashboardUI_DashboardUI .Group65 {
+	position: absolute;
+	left: 27px;
+	top: 44px;
+	width: 227px;
+	height: 939px;
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group65 .Rectangle72_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group65 .Rectangle115 {
+	position: absolute;
+	left: 35.28515625px;
+	top: 141.9775390625px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group65 .Dashboard {
+	position: absolute;
+	left: 54.6083984375px;
+	top: 152.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group65 .CyberPeaceFoundation {
+	position: absolute;
+	left: 8px;
+	top: 25px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.DashboardUI_DashboardUI .Group65 .Courses {
+	position: absolute;
+	left: 71.41015625px;
+	top: 210.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group65 .Community {
+	position: absolute;
+	left: 50.4072265625px;
+	top: 269.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group65 .Calendar {
+	position: absolute;
+	left: 65.529296875px;
+	top: 328.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group66 {
+	position: absolute;
+	left: 27px;
+	top: 44px;
+	width: 227px;
+	height: 939px;
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group66 .Rectangle72_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group66 .Rectangle115_1 {
+	position: absolute;
+	left: 35.28515625px;
+	top: 141.9775390625px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.DashboardUI_DashboardUI .Group66 .Dashboard_1 {
+	position: absolute;
+	left: 54.6083984375px;
+	top: 152.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group66 .CyberPeaceFoundation_1 {
+	position: absolute;
+	left: 8px;
+	top: 25px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.DashboardUI_DashboardUI .Group66 .Courses_1 {
+	position: absolute;
+	left: 71.41015625px;
+	top: 210.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group66 .Community_1 {
+	position: absolute;
+	left: 50.4072265625px;
+	top: 269.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Group66 .Calendar_1 {
+	position: absolute;
+	left: 65.529296875px;
+	top: 328.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.DashboardUI_DashboardUI .Clock {
+	position: absolute;
+	left: 1117px;
+	top: 254px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Rectangle183 {
+	position: absolute;
+	left: 1100px;
+	top: 328px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .EthicalHacking_1 {
+	position: absolute;
+	left: 1114px;
+	top: 344px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .ProfRajSharma_1 {
+	position: absolute;
+	left: 1121px;
+	top: 398px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle184 {
+	position: absolute;
+	left: 1285px;
+	top: 395px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.DashboardUI_DashboardUI ._300400pm_1 {
+	position: absolute;
+	left: 1131px;
+	top: 368px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.DashboardUI_DashboardUI .Join_1 {
+	position: absolute;
+	left: 1324px;
+	top: 399px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Clock_1 {
+	position: absolute;
+	left: 1120px;
+	top: 367px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Rectangle185 {
+	position: absolute;
+	left: 1100px;
+	top: 441px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .EthicalHacking_2 {
+	position: absolute;
+	left: 1114px;
+	top: 457px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .ProfRajSharma_2 {
+	position: absolute;
+	left: 1121px;
+	top: 511px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle186 {
+	position: absolute;
+	left: 1285px;
+	top: 508px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.DashboardUI_DashboardUI ._300400pm_2 {
+	position: absolute;
+	left: 1131px;
+	top: 481px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.DashboardUI_DashboardUI .Join_2 {
+	position: absolute;
+	left: 1324px;
+	top: 512px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Clock_2 {
+	position: absolute;
+	left: 1120px;
+	top: 480px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Course {
+	position: absolute;
+	left: 290px;
+	top: 171px;
+	width: 83px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .ExploreCourses {
+	position: absolute;
+	left: 305px;
+	top: 496px;
+	width: 139px;
+	height: 29px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .PopularCourseTopics {
+	position: absolute;
+	left: 300px;
+	top: 890px;
+	width: 190px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .EthicalHackingEssentials {
+	position: absolute;
+	left: 300px;
+	top: 216px;
+	width: 189px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Group29 {
+	position: absolute;
+	left: 497px;
+	top: 213px;
+	width: 146px;
+	height: 27px;
+}
+.DashboardUI_DashboardUI .Group29 .MaleUser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 25px;
+	height: 25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group29 .ProfRajSharma_3 {
+	position: absolute;
+	left: 27px;
+	top: 4px;
+	width: 119px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Jun82024700pm {
+	position: absolute;
+	left: 754px;
+	top: 217px;
+	width: 143px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI ._80 {
+	position: absolute;
+	left: 1023px;
+	top: 216px;
+	width: 36px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Instructor {
+	position: absolute;
+	left: 496px;
+	top: 171px;
+	width: 83px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Progress {
+	position: absolute;
+	left: 909px;
+	top: 171px;
+	width: 83px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Rectangle127 {
+	position: absolute;
+	left: 917px;
+	top: 224px;
+	width: 101px;
+	height: 7px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle128 {
+	position: absolute;
+	left: 917px;
+	top: 224px;
+	width: 75px;
+	height: 7px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Level {
+	position: absolute;
+	left: 643px;
+	top: 171px;
+	width: 74px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .NextAssignment {
+	position: absolute;
+	left: 747px;
+	top: 171px;
+	width: 155px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Rectangle129 {
+	position: absolute;
+	left: 659px;
+	top: 214px;
+	width: 80px;
+	height: 23px;
+	background: rgba(242,242,242,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Medium {
+	position: absolute;
+	left: 664px;
+	top: 217px;
+	width: 72px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.DashboardUI_DashboardUI .Rectangle130 {
+	position: absolute;
+	left: 917px;
+	top: 224px;
+	width: 101px;
+	height: 7px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle131 {
+	position: absolute;
+	left: 917px;
+	top: 224px;
+	width: 75px;
+	height: 7px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Group33 {
+	position: absolute;
+	left: 659px;
+	top: 214px;
+	width: 80px;
+	height: 23px;
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group33 .Rectangle132 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 80px;
+	height: 23px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group33 .Medium_1 {
+	position: absolute;
+	left: 5px;
+	top: 3px;
+	width: 72px;
+	height: 16px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Line44 {
+	position: absolute;
+	left: 303px;
+	top: 201.5px;
+	width: 755px;
+	height: 0px;
+	border: 1px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.DashboardUI_DashboardUI .Rectangle137 {
+	position: absolute;
+	left: 917px;
+	top: 224px;
+	width: 75px;
+	height: 7px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Line46 {
+	position: absolute;
+	left: 303px;
+	top: 201.5px;
+	width: 755px;
+	height: 0px;
+	border: 1px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.DashboardUI_DashboardUI .MaleUser_2 {
+	position: absolute;
+	left: 498px;
+	top: 260.5px;
+	width: 25px;
+	height: 25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .EthicalHackingEssentials_1 {
+	position: absolute;
+	left: 301px;
+	top: 263.5px;
+	width: 189px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .ProfRajSharma_4 {
+	position: absolute;
+	left: 525px;
+	top: 264.5px;
+	width: 119px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Jun82024700pm_1 {
+	position: absolute;
+	left: 755px;
+	top: 264.5px;
+	width: 143px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI ._80_1 {
+	position: absolute;
+	left: 1024px;
+	top: 263.5px;
+	width: 36px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle149 {
+	position: absolute;
+	left: 918px;
+	top: 271.5px;
+	width: 101px;
+	height: 7px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Group32 {
+	position: absolute;
+	left: 660px;
+	top: 261.5px;
+	width: 80px;
+	height: 23px;
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group32 .Rectangle150 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 80px;
+	height: 23px;
+	background: rgba(255,114,102,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group32 .Hard {
+	position: absolute;
+	left: 5px;
+	top: 2.5px;
+	width: 72px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle151 {
+	position: absolute;
+	left: 918px;
+	top: 271.5px;
+	width: 75px;
+	height: 7px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Line47 {
+	position: absolute;
+	left: 304px;
+	top: 249px;
+	width: 755px;
+	height: 0px;
+	border: 1px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.DashboardUI_DashboardUI .MaleUser_3 {
+	position: absolute;
+	left: 498px;
+	top: 306.5px;
+	width: 25px;
+	height: 25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .EthicalHackingEssentials_2 {
+	position: absolute;
+	left: 301px;
+	top: 309.5px;
+	width: 189px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .ProfRajSharma_5 {
+	position: absolute;
+	left: 525px;
+	top: 310.5px;
+	width: 119px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Jun82024700pm_2 {
+	position: absolute;
+	left: 755px;
+	top: 310.5px;
+	width: 143px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI ._80_2 {
+	position: absolute;
+	left: 1024px;
+	top: 309.5px;
+	width: 36px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Rectangle187 {
+	position: absolute;
+	left: 918px;
+	top: 317.5px;
+	width: 101px;
+	height: 7px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle189 {
+	position: absolute;
+	left: 918px;
+	top: 317.5px;
+	width: 75px;
+	height: 7px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Group31 {
+	position: absolute;
+	left: 660px;
+	top: 307.5px;
+	width: 80px;
+	height: 23px;
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group31 .Rectangle188 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 80px;
+	height: 23px;
+	background: rgba(163,222,166,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Group31 .Easy {
+	position: absolute;
+	left: 24px;
+	top: 2.5px;
+	width: 35px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Line48 {
+	position: absolute;
+	left: 304px;
+	top: 295px;
+	width: 755px;
+	height: 0px;
+	border: 1px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.DashboardUI_DashboardUI .ViewAll_2 {
+	position: absolute;
+	left: 1328px;
+	top: 178px;
+	width: 73px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.34000015258789px;
+	font-weight: 400;
+	line-height: 16.261459350585938px;
+}
+.DashboardUI_DashboardUI .Rectangle169 {
+	position: absolute;
+	left: 305px;
+	top: 926px;
+	width: 205px;
+	height: 41px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Rectangle178 {
+	position: absolute;
+	left: 523px;
+	top: 926px;
+	width: 205px;
+	height: 41px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Rectangle179 {
+	position: absolute;
+	left: 743px;
+	top: 926px;
+	width: 205px;
+	height: 41px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Rectangle180 {
+	position: absolute;
+	left: 961px;
+	top: 926px;
+	width: 205px;
+	height: 41px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Rectangle181 {
+	position: absolute;
+	left: 1179px;
+	top: 926px;
+	width: 205px;
+	height: 41px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 5px;
+}
+.DashboardUI_DashboardUI .Penetrationtesting {
+	position: absolute;
+	left: 358px;
+	top: 937px;
+	width: 152px;
+	height: 20px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .NetworkSecurity {
+	position: absolute;
+	left: 580px;
+	top: 937px;
+	width: 131px;
+	height: 20px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Cryptography {
+	position: absolute;
+	left: 1028px;
+	top: 937px;
+	width: 131px;
+	height: 20px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .Malware {
+	position: absolute;
+	left: 1260px;
+	top: 937px;
+	width: 66px;
+	height: 20px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI .SocialEngineering {
+	position: absolute;
+	left: 797px;
+	top: 937px;
+	width: 142px;
+	height: 20px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.DashboardUI_DashboardUI ._30764161 {
+	position: absolute;
+	left: 751px;
+	top: 931px;
+	width: 31px;
+	height: 31px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .malwaresymbolredisolatedonwhitebackgroundfreevector1 {
+	position: absolute;
+	left: 1185px;
+	top: 928px;
+	width: 38px;
+	height: 38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI ._109615071 {
+	position: absolute;
+	left: 312px;
+	top: 927px;
+	width: 34px;
+	height: 34px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .images1 {
+	position: absolute;
+	left: 525px;
+	top: 929px;
+	width: 46px;
+	height: 36px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI ._183600437cryptographyiconblockchaintechnologyrelatedvectorillustration1 {
+	position: absolute;
+	left: 968px;
+	top: 930px;
+	width: 32px;
+	height: 32px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Rectangle138 {
+	position: absolute;
+	left: 1104px;
+	top: 562px;
+	width: 310px;
+	height: 298px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.DashboardUI_DashboardUI .Rectangle190 {
+	position: absolute;
+	left: 1122px;
+	top: 580px;
+	width: 272px;
+	height: 61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10px;
+}
+.DashboardUI_DashboardUI ._10Courses {
+	position: absolute;
+	left: 1185px;
+	top: 590px;
+	width: 112px;
+	height: 25px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.3799991607666px;
+}
+.DashboardUI_DashboardUI .enrolled {
+	position: absolute;
+	left: 1185px;
+	top: 611px;
+	width: 70px;
+	height: 19px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Screenshot20240609at12371 {
+	position: absolute;
+	left: 1129px;
+	top: 586px;
+	width: 52px;
+	height: 49px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Rectangle191 {
+	position: absolute;
+	left: 1123px;
+	top: 650px;
+	width: 272px;
+	height: 61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10px;
+}
+.DashboardUI_DashboardUI ._56Lessons {
+	position: absolute;
+	left: 1186px;
+	top: 660px;
+	width: 112px;
+	height: 25px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.3799991607666px;
+}
+.DashboardUI_DashboardUI .contained {
+	position: absolute;
+	left: 1186px;
+	top: 681px;
+	width: 96px;
+	height: 18px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Rectangle192 {
+	position: absolute;
+	left: 1124px;
+	top: 717px;
+	width: 272px;
+	height: 61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10px;
+}
+.DashboardUI_DashboardUI ._5PracticalLabs {
+	position: absolute;
+	left: 1187px;
+	top: 727px;
+	width: 178px;
+	height: 25px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.3799991607666px;
+}
+.DashboardUI_DashboardUI .involvement {
+	position: absolute;
+	left: 1187px;
+	top: 748px;
+	width: 124px;
+	height: 18px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Rectangle193 {
+	position: absolute;
+	left: 1125px;
+	top: 784px;
+	width: 272px;
+	height: 61px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10px;
+}
+.DashboardUI_DashboardUI ._12Reviews {
+	position: absolute;
+	left: 1188px;
+	top: 794px;
+	width: 112px;
+	height: 25px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.3799991607666px;
+}
+.DashboardUI_DashboardUI .given {
+	position: absolute;
+	left: 1188px;
+	top: 815px;
+	width: 70px;
+	height: 18px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Screenshot20240609at12421 {
+	position: absolute;
+	left: 1133px;
+	top: 659px;
+	width: 40.57777786254883px;
+	height: 44px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Screenshot20240609at12422 {
+	position: absolute;
+	left: 1133px;
+	top: 727px;
+	width: 42px;
+	height: 41.522727966308594px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Screenshot20240609at12431 {
+	position: absolute;
+	left: 1133px;
+	top: 794px;
+	width: 43px;
+	height: 41.088890075683594px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group58 {
+	position: absolute;
+	left: 305px;
+	top: 534px;
+	width: 750.558837890625px;
+	height: 299.3846740722656px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 244.55885314941406px;
+	height: 299.3846740722656px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Rectangle121_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 244.55885314941406px;
+	height: 299.3846740722656px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .image4 {
+	position: absolute;
+	left: 15.0634765625px;
+	top: 19.958984375px;
+	width: 214.43203735351562px;
+	height: 123.55557250976562px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .IntroductiontoCyberSecurity {
+	position: absolute;
+	left: 19px;
+	top: 196px;
+	width: 218.86244201660156px;
+	height: 40px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group46 {
+	position: absolute;
+	left: 18px;
+	top: 177px;
+	width: 77px;
+	height: 18px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group46 ._5modules {
+	position: absolute;
+	left: 14px;
+	top: 1px;
+	width: 63px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group46 .materialsymbolslighttopicoutlinerounded {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 17px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group46 .materialsymbolslighttopicoutlinerounded .Vector {
+	position: absolute;
+	left: 1.87548828125px;
+	top: 3.54150390625px;
+	width: 75.00002543131511%;
+	height: 58.33330154418945%;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group47 {
+	position: absolute;
+	left: 185px;
+	top: 177px;
+	width: 36px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group47 ._45 {
+	position: absolute;
+	left: 17px;
+	top: 1px;
+	width: 19px;
+	height: 14px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group47 .fluentpeople24regular {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group47 .fluentpeople24regular .Vector_1 {
+	position: absolute;
+	left: 1.24951171875px;
+	top: 2.68115234375px;
+	width: 83.33749135335286%;
+	height: 70.83333185148356%;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 ._12days {
+	position: absolute;
+	left: 124px;
+	top: 180px;
+	width: 43px;
+	height: 12px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .nimbuscalendardays {
+	position: absolute;
+	left: 102px;
+	top: 178px;
+	width: 16px;
+	height: 15px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .nimbuscalendardays .Vector_2 {
+	position: absolute;
+	left: 0.49951171875px;
+	top: 1.40625px;
+	width: 93.74998807907104%;
+	height: 81.24999364217122%;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .nimbuscalendardays .Vector_3 {
+	position: absolute;
+	left: 2.99951171875px;
+	top: 7.499755859375px;
+	width: 61.875009536743164%;
+	height: 22.499985694885254%;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .byAlamLin {
+	position: absolute;
+	left: 40px;
+	top: 273px;
+	width: 61px;
+	height: 12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .MaleUser_4 {
+	position: absolute;
+	left: 18px;
+	top: 271px;
+	width: 19px;
+	height: 16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group16 {
+	position: absolute;
+	left: 19px;
+	top: 152px;
+	width: 51px;
+	height: 16.575000762939453px;
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group16 .Rectangle132_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 51px;
+	height: 14.662500381469727px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Group16 .Medium_2 {
+	position: absolute;
+	left: 3.1875px;
+	top: 1.91259765625px;
+	width: 45.900001525878906px;
+	height: 14.662500381469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 8.925000190734863px;
+	font-weight: 400;
+	line-height: 10.8795747756958px;
+}
+.DashboardUI_DashboardUI .Group58 .Group57 .Loremipsumdolorsitametconsecteturadipiscingelit {
+	position: absolute;
+	left: 20px;
+	top: 240px;
+	width: 205px;
+	height: 27px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 {
+	position: absolute;
+	left: 253px;
+	top: 0px;
+	width: 245.86244201660156px;
+	height: 299.3846740722656px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Rectangle121_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 244.55885314941406px;
+	height: 299.3846740722656px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .image4_1 {
+	position: absolute;
+	left: 23.0634765625px;
+	top: 17.958984375px;
+	width: 214.43203735351562px;
+	height: 123.55557250976562px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .IntroductiontoCyberSecurity_1 {
+	position: absolute;
+	left: 27px;
+	top: 194px;
+	width: 218.86244201660156px;
+	height: 40px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group46_1 {
+	position: absolute;
+	left: 26px;
+	top: 175px;
+	width: 77px;
+	height: 18px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group46_1 ._5modules_1 {
+	position: absolute;
+	left: 14px;
+	top: 1px;
+	width: 63px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group46_1 .materialsymbolslighttopicoutlinerounded_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 17px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group46_1 .materialsymbolslighttopicoutlinerounded_1 .Vector_4 {
+	position: absolute;
+	left: 1.87548828125px;
+	top: 3.54150390625px;
+	width: 75.00002543131511%;
+	height: 58.33330154418945%;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group47_1 {
+	position: absolute;
+	left: 193px;
+	top: 175px;
+	width: 36px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group47_1 ._45_1 {
+	position: absolute;
+	left: 17px;
+	top: 1px;
+	width: 19px;
+	height: 14px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group47_1 .fluentpeople24regular_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group47_1 .fluentpeople24regular_1 .Vector_5 {
+	position: absolute;
+	left: 1.24951171875px;
+	top: 2.68115234375px;
+	width: 83.33749135335286%;
+	height: 70.83333185148356%;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 ._12days_1 {
+	position: absolute;
+	left: 132px;
+	top: 178px;
+	width: 43px;
+	height: 12px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .nimbuscalendardays_1 {
+	position: absolute;
+	left: 110px;
+	top: 176px;
+	width: 16px;
+	height: 15px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .nimbuscalendardays_1 .Vector_6 {
+	position: absolute;
+	left: 0.49951171875px;
+	top: 1.40625px;
+	width: 93.74998807907104%;
+	height: 81.24999364217122%;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .nimbuscalendardays_1 .Vector_7 {
+	position: absolute;
+	left: 2.99951171875px;
+	top: 7.499755859375px;
+	width: 61.875009536743164%;
+	height: 22.499985694885254%;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .byAlamLin_1 {
+	position: absolute;
+	left: 48px;
+	top: 273px;
+	width: 61px;
+	height: 12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .MaleUser_5 {
+	position: absolute;
+	left: 26px;
+	top: 271px;
+	width: 19px;
+	height: 16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group16_1 {
+	position: absolute;
+	left: 27px;
+	top: 150px;
+	width: 51px;
+	height: 16.575000762939453px;
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group16_1 .Rectangle132_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 51px;
+	height: 14.662500381469727px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Group16_1 .Medium_3 {
+	position: absolute;
+	left: 3.1875px;
+	top: 1.91259765625px;
+	width: 45.900001525878906px;
+	height: 14.662500381469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 8.925000190734863px;
+	font-weight: 400;
+	line-height: 10.8795747756958px;
+}
+.DashboardUI_DashboardUI .Group58 .Group56 .Loremipsumdolorsitametconsecteturadipiscingelit_1 {
+	position: absolute;
+	left: 28px;
+	top: 240px;
+	width: 205px;
+	height: 27px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 {
+	position: absolute;
+	left: 506px;
+	top: 0px;
+	width: 244.55885314941406px;
+	height: 299.3846740722656px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Rectangle121_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 244.55885314941406px;
+	height: 299.3846740722656px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .image4_2 {
+	position: absolute;
+	left: 15.0634765625px;
+	top: 19.958984375px;
+	width: 214.43203735351562px;
+	height: 123.55557250976562px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .IntroductiontoCyberSecurity_2 {
+	position: absolute;
+	left: 19px;
+	top: 196px;
+	width: 218.86244201660156px;
+	height: 40px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group46_2 {
+	position: absolute;
+	left: 18px;
+	top: 177px;
+	width: 77px;
+	height: 18px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group46_2 ._5modules_2 {
+	position: absolute;
+	left: 14px;
+	top: 1px;
+	width: 63px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group46_2 .materialsymbolslighttopicoutlinerounded_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 17px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group46_2 .materialsymbolslighttopicoutlinerounded_2 .Vector_8 {
+	position: absolute;
+	left: 1.87548828125px;
+	top: 3.54150390625px;
+	width: 75.00002543131511%;
+	height: 58.33330154418945%;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group47_2 {
+	position: absolute;
+	left: 185px;
+	top: 177px;
+	width: 36px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group47_2 ._45_2 {
+	position: absolute;
+	left: 17px;
+	top: 1px;
+	width: 19px;
+	height: 14px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group47_2 .fluentpeople24regular_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15px;
+	height: 16.08925437927246px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group47_2 .fluentpeople24regular_2 .Vector_9 {
+	position: absolute;
+	left: 1.2496337890625px;
+	top: 2.68115234375px;
+	width: 83.33749135335286%;
+	height: 70.83333185148356%;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 ._12days_2 {
+	position: absolute;
+	left: 124px;
+	top: 180px;
+	width: 43px;
+	height: 12px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .nimbuscalendardays_2 {
+	position: absolute;
+	left: 102px;
+	top: 178px;
+	width: 16px;
+	height: 15px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .nimbuscalendardays_2 .Vector_10 {
+	position: absolute;
+	left: 0.4993896484375px;
+	top: 1.40625px;
+	width: 93.74998807907104%;
+	height: 81.24999364217122%;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .nimbuscalendardays_2 .Vector_11 {
+	position: absolute;
+	left: 2.99951171875px;
+	top: 7.499755859375px;
+	width: 61.875009536743164%;
+	height: 22.499985694885254%;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .byAlamLin_2 {
+	position: absolute;
+	left: 41px;
+	top: 273px;
+	width: 61px;
+	height: 12px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .MaleUser_6 {
+	position: absolute;
+	left: 19px;
+	top: 271px;
+	width: 19px;
+	height: 16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group16_2 {
+	position: absolute;
+	left: 19px;
+	top: 152px;
+	width: 51px;
+	height: 16.575000762939453px;
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group16_2 .Rectangle132_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 51px;
+	height: 14.662500381469727px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 3.1875px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Group16_2 .Medium_4 {
+	position: absolute;
+	left: 3.1875px;
+	top: 1.91259765625px;
+	width: 45.900001525878906px;
+	height: 14.662500381469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 8.925000190734863px;
+	font-weight: 400;
+	line-height: 10.8795747756958px;
+}
+.DashboardUI_DashboardUI .Group58 .Group55 .Loremipsumdolorsitametconsecteturadipiscingelit_2 {
+	position: absolute;
+	left: 20px;
+	top: 240px;
+	width: 205px;
+	height: 27px;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.1899995803833px;
+}

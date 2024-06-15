@@ -1,0 +1,961 @@
+
+.adminCoursepreview_adminCoursepreview {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(232,237,240,1.00);
+}
+.adminCoursepreview_adminCoursepreview .Rectangle121 {
+	position: absolute;
+	left: 1061px;
+	top: 176px;
+	width: 347px;
+	height: 828px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.adminCoursepreview_adminCoursepreview .icbaselineadd {
+	position: absolute;
+	left: 1305px;
+	top: 252px;
+	width: 20px;
+	height: 20px;
+}
+.adminCoursepreview_adminCoursepreview .icbaselineadd .Vector {
+	position: absolute;
+	left: 4.1666259765625px;
+	top: 4.166748046875px;
+	width: 58.33333015441895%;
+	height: 58.33333015441895%;
+}
+.adminCoursepreview_adminCoursepreview .Rectangle72 {
+	position: absolute;
+	left: 27px;
+	top: 44px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.adminCoursepreview_adminCoursepreview .Rectangle115 {
+	position: absolute;
+	left: 62.28515625px;
+	top: 245.9775390625px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.adminCoursepreview_adminCoursepreview .Dashboard {
+	position: absolute;
+	left: 81.6083984375px;
+	top: 196.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminCoursepreview_adminCoursepreview .CyberPeaceFoundation {
+	position: absolute;
+	left: 35px;
+	top: 69px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.adminCoursepreview_adminCoursepreview .Courses {
+	position: absolute;
+	left: 98.41015625px;
+	top: 254.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminCoursepreview_adminCoursepreview ._ {
+	position: absolute;
+	left: 527px;
+	top: 135px;
+	width: 10px;
+	height: 21px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 20.722999572753906px;
+}
+.adminCoursepreview_adminCoursepreview .IntroductiontoCyberSecurity {
+	position: absolute;
+	left: 297px;
+	top: 137px;
+	width: 212px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.adminCoursepreview_adminCoursepreview .Week1 {
+	position: absolute;
+	left: 555px;
+	top: 137px;
+	width: 49px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.adminCoursepreview_adminCoursepreview .__1 {
+	position: absolute;
+	left: 622px;
+	top: 135px;
+	width: 10px;
+	height: 21px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 20.722999572753906px;
+}
+.adminCoursepreview_adminCoursepreview .Loremipsumdolorsitamet {
+	position: absolute;
+	left: 650px;
+	top: 137px;
+	width: 195px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.adminCoursepreview_adminCoursepreview .Community {
+	position: absolute;
+	left: 77.4072265625px;
+	top: 313.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminCoursepreview_adminCoursepreview .Calendar {
+	position: absolute;
+	left: 92.529296875px;
+	top: 372.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminCoursepreview_adminCoursepreview .Group64 {
+	position: absolute;
+	left: 278px;
+	top: 44px;
+	width: 1100px;
+	height: 63px;
+}
+.adminCoursepreview_adminCoursepreview .Group64 .Rectangle72_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 561px;
+	height: 63px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 30px;
+}
+.adminCoursepreview_adminCoursepreview .Group64 .Search {
+	position: absolute;
+	left: 18px;
+	top: 15px;
+	width: 41px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group64 .Search_1 {
+	position: absolute;
+	left: 77px;
+	top: 20px;
+	width: 69px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminCoursepreview_adminCoursepreview .Group64 .MaleUser {
+	position: absolute;
+	left: 1060px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group64 .Doorbell {
+	position: absolute;
+	left: 968px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .CourseContent {
+	position: absolute;
+	left: 1090px;
+	top: 205px;
+	width: 193px;
+	height: 24px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.3799991607666px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 {
+	position: absolute;
+	left: 288px;
+	top: 676px;
+	width: 751px;
+	height: 309px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Rectangle119 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 751px;
+	height: 309px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20.273473739624023px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .IntroductiontoCyberSecurity_1 {
+	position: absolute;
+	left: 28px;
+	top: 75px;
+	width: 517px;
+	height: 37px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 36.56999969482422px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 {
+	position: absolute;
+	left: 28px;
+	top: 37px;
+	width: 252px;
+	height: 26.912641525268555px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .basedon {
+	position: absolute;
+	left: 77.7479248046875px;
+	top: 2.989990234375px;
+	width: 88.71204376220703px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 15.948232650756836px;
+	font-weight: 500;
+	line-height: 19.440895080566406px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 ._10reviews {
+	position: absolute;
+	left: 163.2879638671875px;
+	top: 2.989990234375px;
+	width: 88.71204376220703px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15.948232650756836px;
+	font-weight: 600;
+	line-height: 19.440895080566406px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .Group72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.76704406738281px;
+	height: 26.912641525268555px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .Group72 .Rectangle74 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.76704406738281px;
+	height: 26.912641525268555px;
+	background: rgba(255,222,105,0.26);
+	border-radius: 25.595930099487305px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .Group72 ._46 {
+	position: absolute;
+	left: 28.90625px;
+	top: 2.989990234375px;
+	width: 28px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,199,0,1.00);
+	font-family: Montserrat;
+	font-size: 17.941761016845703px;
+	font-weight: 500;
+	line-height: 21.87100601196289px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .Group72 .materialsymbolsstar {
+	position: absolute;
+	left: 5.7957763671875px;
+	top: 4.1962890625px;
+	width: 27.863511452004698%;
+	height: 74.30269720534586%;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group73 .Group72 .materialsymbolsstar .Vector_1 {
+	position: absolute;
+	left: 1.6666259765625px;
+	top: 1.666259765625px;
+	width: 83.3333110773923%;
+	height: 79.16670322999836%;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group65 {
+	position: absolute;
+	left: 28px;
+	top: 252px;
+	width: 173.99986267089844px;
+	height: 32.1778564453125px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group65 .MaleUser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 29.794519424438477px;
+	height: 29.794519424438477px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group65 .ProfRajSharma {
+	position: absolute;
+	left: 32.17791748046875px;
+	top: 4.766845703125px;
+	width: 141.82192993164062px;
+	height: 27.41095542907715px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.6849308013916px;
+	font-weight: 400;
+	line-height: 20.338930130004883px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .LoremipsumdolorsitametconsecteturadipiscingelitseddoeiusmodtemporincididuntutlaboreetdoloremagnaaliquaUtenimadminimveniamquisnostrudexercitationullamcolaborisnisiutaliquipexeacommodoconsequat {
+	position: absolute;
+	left: 28px;
+	top: 167px;
+	width: 696px;
+	height: 65px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.503999710083008px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 {
+	position: absolute;
+	left: 28px;
+	top: 128px;
+	width: 200px;
+	height: 23.31449317932129px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group33 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	border-radius: 5.068368434906006px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group33 .Rectangle132 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 5.068368434906006px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group33 .Medium {
+	position: absolute;
+	left: 5.06829833984375px;
+	top: 3.040771484375px;
+	width: 72.98450469970703px;
+	height: 16.218778610229492px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group75 {
+	position: absolute;
+	left: 96px;
+	top: 0px;
+	width: 104px;
+	height: 23px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group75 .Rectangle132_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 104px;
+	height: 23px;
+	background: rgba(238,235,235,1.00);
+	border-radius: 5.068368434906006px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group75 .KaliLinux {
+	position: absolute;
+	left: 26px;
+	top: 3px;
+	width: 72.98450469970703px;
+	height: 16.218778610229492px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group76 .Group75 .Tools {
+	position: absolute;
+	left: 4px;
+	top: 3px;
+	width: 18px;
+	height: 18px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group74 {
+	position: absolute;
+	left: 245px;
+	top: 253px;
+	width: 241.04347229003906px;
+	height: 28px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group74 ._100studentsenrolled {
+	position: absolute;
+	left: 31.6522216796875px;
+	top: 4.86962890625px;
+	width: 209.3913116455078px;
+	height: 19.478260040283203px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 17.27652359008789px;
+	font-weight: 500;
+	line-height: 21.060081481933594px;
+}
+.adminCoursepreview_adminCoursepreview .Group86 .Group74 .Users {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 28px;
+	height: 28px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .ChevronUp {
+	position: absolute;
+	left: 1366px;
+	top: 251px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Week1Introduction {
+	position: absolute;
+	left: 1122px;
+	top: 252px;
+	width: 193px;
+	height: 18px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 18.28499984741211px;
+}
+.adminCoursepreview_adminCoursepreview .ChevronUp_1 {
+	position: absolute;
+	left: 1366px;
+	top: 454px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Week2Malware {
+	position: absolute;
+	left: 1122px;
+	top: 455px;
+	width: 193px;
+	height: 18px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 18.28499984741211px;
+}
+.adminCoursepreview_adminCoursepreview .ChevronUp_2 {
+	position: absolute;
+	left: 1366px;
+	top: 514px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Week3PenetrationTesting {
+	position: absolute;
+	left: 1123px;
+	top: 515px;
+	width: 226px;
+	height: 18px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 18.28499984741211px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 {
+	position: absolute;
+	left: 1144px;
+	top: 283px;
+	width: 221px;
+	height: 141px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .CircledPlay {
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .GoogleDocs {
+	position: absolute;
+	left: 0px;
+	top: 30px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .GoogleDocs_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .iMac {
+	position: absolute;
+	left: 0px;
+	top: 93px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Loremipsumdolorsitamet_1 {
+	position: absolute;
+	left: 28px;
+	top: 3px;
+	width: 193px;
+	height: 15px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Loremipsumdolorsitamet_2 {
+	position: absolute;
+	left: 28px;
+	top: 33px;
+	width: 193px;
+	height: 15px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Loremipsumdolorsitamet_3 {
+	position: absolute;
+	left: 28px;
+	top: 63px;
+	width: 193px;
+	height: 15px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Loremipsumdolorsitamet_4 {
+	position: absolute;
+	left: 28px;
+	top: 93px;
+	width: 193px;
+	height: 15px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Loremipsumdolorsitamet_5 {
+	position: absolute;
+	left: 28px;
+	top: 123px;
+	width: 193px;
+	height: 15px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.adminCoursepreview_adminCoursepreview .Group87 .Questions {
+	position: absolute;
+	left: 0px;
+	top: 120px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox {
+	position: absolute;
+	left: 1084px;
+	top: 244px;
+	width: 35px;
+	height: 35px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox .Vector_2 {
+	position: absolute;
+	left: 7.2916259765625px;
+	top: 7.291748046875px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_1 {
+	position: absolute;
+	left: 1084px;
+	top: 444px;
+	width: 35px;
+	height: 35px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_1 .Vector_3 {
+	position: absolute;
+	left: 7.2916259765625px;
+	top: 7.291748046875px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_2 {
+	position: absolute;
+	left: 1084px;
+	top: 506px;
+	width: 35px;
+	height: 35px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_2 .Vector_4 {
+	position: absolute;
+	left: 7.2916259765625px;
+	top: 7.291748046875px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_3 {
+	position: absolute;
+	left: 1119px;
+	top: 283px;
+	width: 21px;
+	height: 21px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_3 .Vector_5 {
+	position: absolute;
+	left: 4.375px;
+	top: 4.375px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_4 {
+	position: absolute;
+	left: 1119px;
+	top: 313px;
+	width: 21px;
+	height: 21px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_4 .Vector_6 {
+	position: absolute;
+	left: 4.375px;
+	top: 4.375px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_5 {
+	position: absolute;
+	left: 1119px;
+	top: 343px;
+	width: 21px;
+	height: 21px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_5 .Vector_7 {
+	position: absolute;
+	left: 4.375px;
+	top: 4.375px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_6 {
+	position: absolute;
+	left: 1119px;
+	top: 373px;
+	width: 21px;
+	height: 21px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_6 .Vector_8 {
+	position: absolute;
+	left: 4.375px;
+	top: 4.375px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_7 {
+	position: absolute;
+	left: 1119px;
+	top: 403px;
+	width: 21px;
+	height: 21px;
+}
+.adminCoursepreview_adminCoursepreview .bxcheckbox_7 .Vector_9 {
+	position: absolute;
+	left: 4.375px;
+	top: 4.375px;
+	width: 58.333342415945864%;
+	height: 58.333342415945864%;
+}
+.adminCoursepreview_adminCoursepreview .Group88 {
+	position: absolute;
+	left: 288px;
+	top: 176px;
+	width: 751px;
+	height: 427.8134765625px;
+}
+.adminCoursepreview_adminCoursepreview .Group88 .Rectangle122 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 751px;
+	height: 427.8134765625px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.adminCoursepreview_adminCoursepreview .Group88 .photo16180609320144deda49325542 {
+	position: absolute;
+	left: 23px;
+	top: 17.751708984375px;
+	width: 706px;
+	height: 392.4267883300781px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+}
+.adminCoursepreview_adminCoursepreview .Group88 .Rectangle123 {
+	position: absolute;
+	left: 23px;
+	top: 18.63916015625px;
+	width: 706px;
+	height: 388.7599792480469px;
+	background: rgba(0,0,0,0.50);
+	border-radius: 10px;
+}
+.adminCoursepreview_adminCoursepreview .Rectangle209 {
+	position: absolute;
+	left: 297px;
+	top: 617px;
+	width: 141px;
+	height: 46px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 10px;
+}
+.adminCoursepreview_adminCoursepreview .Previous {
+	position: absolute;
+	left: 357px;
+	top: 630px;
+	width: 71px;
+	height: 27px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.adminCoursepreview_adminCoursepreview .Rectangle210 {
+	position: absolute;
+	left: 884px;
+	top: 617px;
+	width: 141px;
+	height: 46px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 10px;
+}
+.adminCoursepreview_adminCoursepreview .Next {
+	position: absolute;
+	left: 898px;
+	top: 630px;
+	width: 93px;
+	height: 27px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.adminCoursepreview_adminCoursepreview .Rewind {
+	position: absolute;
+	left: 307px;
+	top: 626px;
+	width: 27px;
+	height: 27px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Rewind_1 {
+	position: absolute;
+	left: 983px;
+	top: 627px;
+	width: 27px;
+	height: 27px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Play {
+	position: absolute;
+	left: 332px;
+	top: 531px;
+	width: 35px;
+	height: 35px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .FullScreen {
+	position: absolute;
+	left: 955px;
+	top: 528px;
+	width: 41px;
+	height: 41px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .Voice {
+	position: absolute;
+	left: 896px;
+	top: 525px;
+	width: 48px;
+	height: 48px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminCoursepreview_adminCoursepreview .icoutlinedelete {
+	position: absolute;
+	left: 1325px;
+	top: 252px;
+	width: 20px;
+	height: 20px;
+}
+.adminCoursepreview_adminCoursepreview .icoutlinedelete .Vector_10 {
+	position: absolute;
+	left: 4.1666259765625px;
+	top: 2.5px;
+	width: 58.33333015441895%;
+	height: 75%;
+}

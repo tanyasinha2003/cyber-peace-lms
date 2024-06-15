@@ -1,0 +1,671 @@
+
+.adminDiscussion_adminDiscussion {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(242,242,242,1.00);
+}
+.adminDiscussion_adminDiscussion .Navbar {
+	position: absolute;
+	left: 313px;
+	top: 42px;
+	width: 1100px;
+	height: 63px;
+}
+.adminDiscussion_adminDiscussion .Navbar .Rectangle72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 561px;
+	height: 63px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 30px;
+}
+.adminDiscussion_adminDiscussion .Navbar .Search {
+	position: absolute;
+	left: 18px;
+	top: 15px;
+	width: 41px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminDiscussion_adminDiscussion .Navbar .Search_1 {
+	position: absolute;
+	left: 77px;
+	top: 20px;
+	width: 69px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminDiscussion_adminDiscussion .Navbar .MaleUser {
+	position: absolute;
+	left: 1060px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminDiscussion_adminDiscussion .Navbar .Doorbell {
+	position: absolute;
+	left: 968px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.adminDiscussion_adminDiscussion .Sidebar {
+	position: absolute;
+	left: 34px;
+	top: 42px;
+	width: 227px;
+	height: 939px;
+	border-radius: 25.20362091064453px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Rectangle72_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Dashboard {
+	position: absolute;
+	left: 54.6083984375px;
+	top: 152.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .CyberPeaceFoundation {
+	position: absolute;
+	left: 8px;
+	top: 25px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Rectangle115 {
+	position: absolute;
+	left: 36px;
+	top: 261px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Courses {
+	position: absolute;
+	left: 71.41015625px;
+	top: 210.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Community {
+	position: absolute;
+	left: 50.4072265625px;
+	top: 269.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminDiscussion_adminDiscussion .Sidebar .Calendar {
+	position: absolute;
+	left: 65.529296875px;
+	top: 328.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.adminDiscussion_adminDiscussion .Rectangle45 {
+	position: absolute;
+	left: 294px;
+	top: 223px;
+	width: 1097px;
+	height: 761px;
+	background: rgba(249,250,251,1.00);
+	mix-blend-mode: screen;
+	border-radius: 20px;
+}
+.adminDiscussion_adminDiscussion .Rectangle116 {
+	position: absolute;
+	left: 318px;
+	top: 632px;
+	width: 1049px;
+	height: 256px;
+	background: rgba(183,206,255,0.34);
+	border-radius: 14px;
+}
+.adminDiscussion_adminDiscussion .Ellipse3 {
+	position: absolute;
+	left: 337.6669921875px;
+	top: 645px;
+	width: 92.87350463867188px;
+	height: 85px;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: multiply;
+}
+.adminDiscussion_adminDiscussion ._11July2024 {
+	position: absolute;
+	left: 1257.9619140625px;
+	top: 654px;
+	width: 89.59561920166016px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Heresasampleentryforthediscussionplatform {
+	position: absolute;
+	left: 442.9619140625px;
+	top: 684px;
+	width: 305px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .AndrewSmith {
+	position: absolute;
+	left: 443.9619140625px;
+	top: 654px;
+	width: 154px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminDiscussion_adminDiscussion .Group54 {
+	position: absolute;
+	left: 318px;
+	top: 505px;
+	width: 1048.92431640625px;
+	height: 116px;
+}
+.adminDiscussion_adminDiscussion .Group54 .Rectangle116_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1048.92431640625px;
+	height: 116px;
+	background: rgba(183,206,255,0.34);
+	border-radius: 14px;
+}
+.adminDiscussion_adminDiscussion .Group54 .Ellipse3_1 {
+	position: absolute;
+	left: 19.6669921875px;
+	top: 13px;
+	width: 92.87350463867188px;
+	height: 85px;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: multiply;
+}
+.adminDiscussion_adminDiscussion .Group54 ._11July2024_1 {
+	position: absolute;
+	left: 939.9619140625px;
+	top: 22px;
+	width: 89.59561920166016px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group54 .Rectangle117 {
+	position: absolute;
+	left: 895.9619140625px;
+	top: 72px;
+	width: 135.48605346679688px;
+	height: 30px;
+	background: rgba(27,89,218,0.77);
+	mix-blend-mode: linear-burn;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group54 .Heresasampleentryforthediscussionplatform_1 {
+	position: absolute;
+	left: 124.9619140625px;
+	top: 52px;
+	width: 305px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group54 .AndrewSmith_1 {
+	position: absolute;
+	left: 125.9619140625px;
+	top: 22px;
+	width: 154px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminDiscussion_adminDiscussion .Group54 .Reply {
+	position: absolute;
+	left: 928.9619140625px;
+	top: 77px;
+	width: 66px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.941999435424805px;
+}
+.adminDiscussion_adminDiscussion .Group50 {
+	position: absolute;
+	left: 1201px;
+	top: 150px;
+	width: 190px;
+	height: 46px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Rectangle119 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 190px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.adminDiscussion_adminDiscussion .Group50 .ByCategory {
+	position: absolute;
+	left: 35px;
+	top: 13px;
+	width: 91px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Vector {
+	position: absolute;
+	left: 17px;
+	top: 16px;
+	width: 5.965734281037983%;
+	height: 27.721154171487562%;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Group14 {
+	position: absolute;
+	left: 146px;
+	top: 0px;
+	width: 41px;
+	height: 46px;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Group14 .riarrowdropdownfill {
+	position: absolute;
+	left: 0px;
+	top: 11px;
+	width: 41px;
+	height: 35px;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Group14 .riarrowdropdownfill .Vector_1 {
+	position: absolute;
+	left: 13.6666259765625px;
+	top: 14.5833740234375px;
+	width: 33.333336434713225%;
+	height: 16.666668483189174%;
+}
+.adminDiscussion_adminDiscussion .Group50 .Group14 .riarrowdropdownfill_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 41px;
+	height: 35px;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group50 .Group14 .riarrowdropdownfill_1 .Vector_2 {
+	position: absolute;
+	left: 13.666706085205078px;
+	top: 14.583292007446289px;
+	width: 33.333336434713225%;
+	height: 16.666668483189174%;
+}
+.adminDiscussion_adminDiscussion .Group51 {
+	position: absolute;
+	left: 295px;
+	top: 152px;
+	width: 331px;
+	height: 44px;
+	border-radius: 20px;
+}
+.adminDiscussion_adminDiscussion .Group51 .Rectangle117_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 331px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.adminDiscussion_adminDiscussion .Group51 .Recent {
+	position: absolute;
+	left: 25px;
+	top: 12px;
+	width: 58px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.adminDiscussion_adminDiscussion .Group51 .Popular {
+	position: absolute;
+	left: 122px;
+	top: 12px;
+	width: 64px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.adminDiscussion_adminDiscussion .Group51 .LastReply {
+	position: absolute;
+	left: 225px;
+	top: 12px;
+	width: 84px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19.503999710083008px;
+}
+.adminDiscussion_adminDiscussion .Group53 {
+	position: absolute;
+	left: 318.0380859375px;
+	top: 251px;
+	width: 1048.92431640625px;
+	height: 116px;
+}
+.adminDiscussion_adminDiscussion .Group53 .Rectangle46 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1048.92431640625px;
+	height: 116px;
+	background: rgba(183,206,255,0.34);
+	border-radius: 14px;
+}
+.adminDiscussion_adminDiscussion .Group53 .Ellipse2 {
+	position: absolute;
+	left: 19.6669921875px;
+	top: 13px;
+	width: 92.87350463867188px;
+	height: 85px;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: multiply;
+}
+.adminDiscussion_adminDiscussion .Group53 ._11July2024_2 {
+	position: absolute;
+	left: 939.9619140625px;
+	top: 22px;
+	width: 89.59561920166016px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group53 .Rectangle47 {
+	position: absolute;
+	left: 895.9619140625px;
+	top: 72px;
+	width: 135.48605346679688px;
+	height: 30px;
+	background: rgba(27,89,218,0.77);
+	mix-blend-mode: linear-burn;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group53 .Heresasampleentryforthediscussionplatform_2 {
+	position: absolute;
+	left: 124.9619140625px;
+	top: 52px;
+	width: 305px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group53 .AndrewSmith_2 {
+	position: absolute;
+	left: 125.9619140625px;
+	top: 22px;
+	width: 154px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminDiscussion_adminDiscussion .Group53 .Reply_1 {
+	position: absolute;
+	left: 928.9619140625px;
+	top: 77px;
+	width: 66px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.941999435424805px;
+}
+.adminDiscussion_adminDiscussion .Group52 {
+	position: absolute;
+	left: 320px;
+	top: 378px;
+	width: 1048.92431640625px;
+	height: 116px;
+}
+.adminDiscussion_adminDiscussion .Group52 .Rectangle116_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1048.92431640625px;
+	height: 116px;
+	background: rgba(183,206,255,0.34);
+	border-radius: 14px;
+}
+.adminDiscussion_adminDiscussion .Group52 .Ellipse3_2 {
+	position: absolute;
+	left: 19.6669921875px;
+	top: 13px;
+	width: 92.87350463867188px;
+	height: 85px;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: multiply;
+}
+.adminDiscussion_adminDiscussion .Group52 ._11July2024_3 {
+	position: absolute;
+	left: 939.9619140625px;
+	top: 22px;
+	width: 89.59561920166016px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group52 .Rectangle117_2 {
+	position: absolute;
+	left: 895.9619140625px;
+	top: 72px;
+	width: 135.48605346679688px;
+	height: 30px;
+	background: rgba(27,89,218,0.77);
+	mix-blend-mode: linear-burn;
+	border-radius: 10px;
+}
+.adminDiscussion_adminDiscussion .Group52 .Heresasampleentryforthediscussionplatform_3 {
+	position: absolute;
+	left: 124.9619140625px;
+	top: 52px;
+	width: 305px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.adminDiscussion_adminDiscussion .Group52 .AndrewSmith_3 {
+	position: absolute;
+	left: 125.9619140625px;
+	top: 22px;
+	width: 154px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.adminDiscussion_adminDiscussion .Group52 .Reply_2 {
+	position: absolute;
+	left: 928.9619140625px;
+	top: 77px;
+	width: 66px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.941999435424805px;
+}

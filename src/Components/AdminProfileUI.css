@@ -1,0 +1,1174 @@
+
+.AdminProfileUI_AdminProfileUI {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(232,237,240,1.00);
+}
+.AdminProfileUI_AdminProfileUI .Rectangle72 {
+	position: absolute;
+	left: 27px;
+	top: 44px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle72_1 {
+	position: absolute;
+	left: 278px;
+	top: 44px;
+	width: 561px;
+	height: 63px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 30px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle115 {
+	position: absolute;
+	left: 62.28515625px;
+	top: 185.9775390625px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.AdminProfileUI_AdminProfileUI .Search {
+	position: absolute;
+	left: 296px;
+	top: 59px;
+	width: 41px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Search_1 {
+	position: absolute;
+	left: 355px;
+	top: 64px;
+	width: 69px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.AdminProfileUI_AdminProfileUI .MaleUser {
+	position: absolute;
+	left: 1338px;
+	top: 49px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Doorbell {
+	position: absolute;
+	left: 1246px;
+	top: 49px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle116 {
+	position: absolute;
+	left: 1097px;
+	top: 215px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .Dashboard {
+	position: absolute;
+	left: 81.6083984375px;
+	top: 196.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle187 {
+	position: absolute;
+	left: 278px;
+	top: 143px;
+	width: 803px;
+	height: 69px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .Today {
+	position: absolute;
+	left: 1105px;
+	top: 143px;
+	width: 75px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: 500;
+	line-height: 30.475000381469727px;
+}
+.AdminProfileUI_AdminProfileUI .EthicalHacking {
+	position: absolute;
+	left: 1111px;
+	top: 231px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.AdminProfileUI_AdminProfileUI .ProfRajSharma {
+	position: absolute;
+	left: 1118px;
+	top: 285px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle117 {
+	position: absolute;
+	left: 1282px;
+	top: 282px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.AdminProfileUI_AdminProfileUI .June82024 {
+	position: absolute;
+	left: 1108px;
+	top: 175px;
+	width: 101px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.503999710083008px;
+}
+.AdminProfileUI_AdminProfileUI ._300400pm {
+	position: absolute;
+	left: 1128px;
+	top: 255px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .Join {
+	position: absolute;
+	left: 1321px;
+	top: 286px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .CyberPeaceFoundation {
+	position: absolute;
+	left: 35px;
+	top: 69px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.AdminProfileUI_AdminProfileUI .Courses {
+	position: absolute;
+	left: 98.41015625px;
+	top: 254.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminProfileUI_AdminProfileUI .Community {
+	position: absolute;
+	left: 77.4072265625px;
+	top: 313.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminProfileUI_AdminProfileUI .Calendar {
+	position: absolute;
+	left: 92.529296875px;
+	top: 372.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminProfileUI_AdminProfileUI .Clock {
+	position: absolute;
+	left: 1117px;
+	top: 254px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle183 {
+	position: absolute;
+	left: 1100px;
+	top: 328px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .EthicalHacking_1 {
+	position: absolute;
+	left: 1114px;
+	top: 344px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.AdminProfileUI_AdminProfileUI .ProfRajSharma_1 {
+	position: absolute;
+	left: 1121px;
+	top: 398px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle184 {
+	position: absolute;
+	left: 1285px;
+	top: 395px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.AdminProfileUI_AdminProfileUI ._300400pm_1 {
+	position: absolute;
+	left: 1131px;
+	top: 368px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .Join_1 {
+	position: absolute;
+	left: 1324px;
+	top: 399px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .Clock_1 {
+	position: absolute;
+	left: 1120px;
+	top: 367px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle185 {
+	position: absolute;
+	left: 1100px;
+	top: 441px;
+	width: 317px;
+	height: 103px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .EthicalHacking_2 {
+	position: absolute;
+	left: 1114px;
+	top: 457px;
+	width: 147px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19.503999710083008px;
+}
+.AdminProfileUI_AdminProfileUI .ProfRajSharma_2 {
+	position: absolute;
+	left: 1121px;
+	top: 511px;
+	width: 120px;
+	height: 19px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle186 {
+	position: absolute;
+	left: 1285px;
+	top: 508px;
+	width: 112px;
+	height: 26px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 20px;
+	border: 1px solid rgba(39.00000147521496,48.000000938773155,67.00000360608101,1);
+	box-sizing: border-box;
+}
+.AdminProfileUI_AdminProfileUI ._300400pm_2 {
+	position: absolute;
+	left: 1131px;
+	top: 481px;
+	width: 104px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .Join_2 {
+	position: absolute;
+	left: 1324px;
+	top: 512px;
+	width: 34px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 17.06599998474121px;
+}
+.AdminProfileUI_AdminProfileUI .Clock_2 {
+	position: absolute;
+	left: 1120px;
+	top: 480px;
+	width: 20px;
+	height: 17px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .ViewAll {
+	position: absolute;
+	left: 1328px;
+	top: 178px;
+	width: 73px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.34000015258789px;
+	font-weight: 400;
+	line-height: 16.261459350585938px;
+}
+.AdminProfileUI_AdminProfileUI .Group27 {
+	position: absolute;
+	left: 293px;
+	top: 157px;
+	width: 184.76828002929688px;
+	height: 42px;
+}
+.AdminProfileUI_AdminProfileUI .Group27 .Rectangle190 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 184.76828002929688px;
+	height: 42px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6.625551223754883px;
+}
+.AdminProfileUI_AdminProfileUI .Group27 ._10CourseViews {
+	position: absolute;
+	left: 42.795654296875px;
+	top: 11.70489501953125px;
+	width: 120.91454315185547px;
+	height: 17.213115692138672px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.251102447509766px;
+	font-weight: 500;
+	line-height: 16.153093338012695px;
+}
+.AdminProfileUI_AdminProfileUI .Group27 .Screenshot20240609at12371 {
+	position: absolute;
+	left: 4.755126953125px;
+	top: 4.13128662109375px;
+	width: 35.32334518432617px;
+	height: 33.73770523071289px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Group28 {
+	position: absolute;
+	left: 488.63720703125px;
+	top: 157px;
+	width: 194.95770263671875px;
+	height: 42px;
+}
+.AdminProfileUI_AdminProfileUI .Group28 .Rectangle191 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 184.76828002929688px;
+	height: 42px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6.625551223754883px;
+}
+.AdminProfileUI_AdminProfileUI .Group28 ._100learninghours {
+	position: absolute;
+	left: 42.795654296875px;
+	top: 11.016326904296875px;
+	width: 152.162109375px;
+	height: 17.213115692138672px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.251102447509766px;
+	font-weight: 500;
+	line-height: 16.153093338012695px;
+}
+.AdminProfileUI_AdminProfileUI .Group28 .Screenshot20240609at12421 {
+	position: absolute;
+	left: 6.79296875px;
+	top: 6.196746826171875px;
+	width: 27.564289093017578px;
+	height: 30.295082092285156px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Group29 {
+	position: absolute;
+	left: 683.5947265625px;
+	top: 157px;
+	width: 184.76828002929688px;
+	height: 42px;
+}
+.AdminProfileUI_AdminProfileUI .Group29 .Rectangle192 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 184.76828002929688px;
+	height: 42px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6.625551223754883px;
+}
+.AdminProfileUI_AdminProfileUI .Group29 ._50TotalUsers {
+	position: absolute;
+	left: 42.1162109375px;
+	top: 12.39349365234375px;
+	width: 120.91454315185547px;
+	height: 17.213115692138672px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.251102447509766px;
+	font-weight: 500;
+	line-height: 16.153093338012695px;
+}
+.AdminProfileUI_AdminProfileUI .Group29 .Screenshot20240609at12422 {
+	position: absolute;
+	left: 6.11376953125px;
+	top: 6.88531494140625px;
+	width: 28.5303955078125px;
+	height: 28.589420318603516px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Group30 {
+	position: absolute;
+	left: 879.231689453125px;
+	top: 157px;
+	width: 184.76828002929688px;
+	height: 42px;
+}
+.AdminProfileUI_AdminProfileUI .Group30 .Rectangle193 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 184.76828002929688px;
+	height: 42px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6.625551223754883px;
+}
+.AdminProfileUI_AdminProfileUI .Group30 ._10PopularCourses {
+	position: absolute;
+	left: 42.1162109375px;
+	top: 11.70489501953125px;
+	width: 131.1039581298828px;
+	height: 17.213115692138672px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 13.251102447509766px;
+	font-weight: 500;
+	line-height: 16.153093338012695px;
+}
+.AdminProfileUI_AdminProfileUI .Group30 .Screenshot20240609at12431 {
+	position: absolute;
+	left: 5.434326171875px;
+	top: 6.88531494140625px;
+	width: 29.209692001342773px;
+	height: 28.290712356567383px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Edit {
+	position: absolute;
+	left: 1373px;
+	top: 231px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Edit_1 {
+	position: absolute;
+	left: 1380px;
+	top: 344px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Edit_2 {
+	position: absolute;
+	left: 1380px;
+	top: 457px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle138 {
+	position: absolute;
+	left: 278px;
+	top: 232px;
+	width: 389px;
+	height: 312px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle188 {
+	position: absolute;
+	left: 692px;
+	top: 231px;
+	width: 389px;
+	height: 313px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle189 {
+	position: absolute;
+	left: 278px;
+	top: 232px;
+	width: 389px;
+	height: 312px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .BarChartVertical1 {
+	position: absolute;
+	left: 708px;
+	top: 240px;
+	width: 357px;
+	height: 289px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle190_1 {
+	position: absolute;
+	left: 692px;
+	top: 572px;
+	width: 389px;
+	height: 411px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .MaleUser_1 {
+	position: absolute;
+	left: 715px;
+	top: 901px;
+	width: 35px;
+	height: 35px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .RajSharma {
+	position: absolute;
+	left: 761px;
+	top: 905px;
+	width: 93px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .IntroductiontoCyberSecurity {
+	position: absolute;
+	left: 750px;
+	top: 932px;
+	width: 251px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .today {
+	position: absolute;
+	left: 1021px;
+	top: 932px;
+	width: 44px;
+	height: 18px;
+	color: rgba(30,30,30,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.AdminProfileUI_AdminProfileUI .MaleUser_2 {
+	position: absolute;
+	left: 714px;
+	top: 729px;
+	width: 35px;
+	height: 35px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .RajSharma_1 {
+	position: absolute;
+	left: 760px;
+	top: 733px;
+	width: 93px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .IntroductiontoCyberSecurity_1 {
+	position: absolute;
+	left: 749px;
+	top: 760px;
+	width: 251px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .today_1 {
+	position: absolute;
+	left: 1020px;
+	top: 760px;
+	width: 44px;
+	height: 18px;
+	color: rgba(30,30,30,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.AdminProfileUI_AdminProfileUI .MaleUser_3 {
+	position: absolute;
+	left: 714px;
+	top: 815px;
+	width: 35px;
+	height: 35px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .RajSharma_2 {
+	position: absolute;
+	left: 760px;
+	top: 819px;
+	width: 93px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .IntroductiontoCyberSecurity_2 {
+	position: absolute;
+	left: 749px;
+	top: 846px;
+	width: 251px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .today_2 {
+	position: absolute;
+	left: 1020px;
+	top: 846px;
+	width: 44px;
+	height: 18px;
+	color: rgba(30,30,30,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.AdminProfileUI_AdminProfileUI .MaleUser_4 {
+	position: absolute;
+	left: 714px;
+	top: 643px;
+	width: 35px;
+	height: 35px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle191_1 {
+	position: absolute;
+	left: 278px;
+	top: 569px;
+	width: 389px;
+	height: 414px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20px;
+}
+.AdminProfileUI_AdminProfileUI .LineGraph1 {
+	position: absolute;
+	left: 298px;
+	top: 235px;
+	width: 345px;
+	height: 298px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .NumberofUsersperMonth {
+	position: absolute;
+	left: 374px;
+	top: 255px;
+	width: 176px;
+	height: 15px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .StudentEnrollmentbyCourse {
+	position: absolute;
+	left: 797px;
+	top: 255px;
+	width: 188px;
+	height: 15px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .CourseSpectrumPaidvsFree {
+	position: absolute;
+	left: 374px;
+	top: 596px;
+	width: 192px;
+	height: 15px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .Group32 {
+	position: absolute;
+	left: 307.889892578125px;
+	top: 618.8899372816086px;
+	width: 340.2198162674904px;
+	height: 340.2198162674904px;
+}
+.AdminProfileUI_AdminProfileUI .Group32 .Ellipse8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 340.2198162674904px;
+	height: 340.2198162674904px;
+	background: rgba(246,79,79,1.00);
+	border-radius: 50%;
+}
+.AdminProfileUI_AdminProfileUI .Group32 .Ellipse9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 340.2198162674904px;
+	height: 340.2198162674904px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 50%;
+}
+.AdminProfileUI_AdminProfileUI .Rectangle205 {
+	position: absolute;
+	left: 555px;
+	top: 929px;
+	width: 15px;
+	height: 15px;
+	background: rgba(39,48,67,1.00);
+}
+.AdminProfileUI_AdminProfileUI .Rectangle206 {
+	position: absolute;
+	left: 555px;
+	top: 959px;
+	width: 15px;
+	height: 15px;
+	background: rgba(246,79,79,1.00);
+}
+.AdminProfileUI_AdminProfileUI .Paid {
+	position: absolute;
+	left: 587px;
+	top: 929px;
+	width: 28px;
+	height: 15px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .Free {
+	position: absolute;
+	left: 587px;
+	top: 959px;
+	width: 28px;
+	height: 15px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.628000259399414px;
+}
+.AdminProfileUI_AdminProfileUI .StudentsEnrolled {
+	position: absolute;
+	left: 771px;
+	top: 587px;
+	width: 216px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(30,30,30,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+}
+.AdminProfileUI_AdminProfileUI .RajSharma_3 {
+	position: absolute;
+	left: 760px;
+	top: 647px;
+	width: 93px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .IntroductiontoCyberSecurity_3 {
+	position: absolute;
+	left: 749px;
+	top: 674px;
+	width: 251px;
+	height: 23px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499984741211px;
+}
+.AdminProfileUI_AdminProfileUI .today_3 {
+	position: absolute;
+	left: 1020px;
+	top: 674px;
+	width: 44px;
+	height: 18px;
+	color: rgba(30,30,30,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.AdminProfileUI_AdminProfileUI .Line50 {
+	position: absolute;
+	left: 689.994140625px;
+	top: 707.5px;
+	width: 391.0115051269531px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.AdminProfileUI_AdminProfileUI .Line51 {
+	position: absolute;
+	left: 695px;
+	top: 789px;
+	width: 391.0115051269531px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.AdminProfileUI_AdminProfileUI .Line52 {
+	position: absolute;
+	left: 680px;
+	top: 883px;
+	width: 391.0115051269531px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.AdminProfileUI_AdminProfileUI .Group93 {
+	position: absolute;
+	left: 1045px;
+	top: 106px;
+	width: 369px;
+	height: 529px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .Rectangle194 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 369px;
+	height: 529px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 5px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .MaleUser_5 {
+	position: absolute;
+	left: 87px;
+	top: 36px;
+	width: 191px;
+	height: 191px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .RheaSingh {
+	position: absolute;
+	left: 109px;
+	top: 234px;
+	width: 146px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: 500;
+	line-height: 30.475000381469727px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .Logout {
+	position: absolute;
+	left: 149px;
+	top: 447px;
+	width: 66px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.941999435424805px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .Settings {
+	position: absolute;
+	left: 144px;
+	top: 395px;
+	width: 76px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.941999435424805px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .MyProfile {
+	position: absolute;
+	left: 137px;
+	top: 343px;
+	width: 91px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.941999435424805px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .rheasinghgmailcom {
+	position: absolute;
+	left: 78px;
+	top: 272px;
+	width: 208px;
+	height: 22px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.941999435424805px;
+}
+.AdminProfileUI_AdminProfileUI .Group93 .Line49 {
+	position: absolute;
+	left: 107px;
+	top: 432px;
+	width: 150px;
+	height: 0px;
+	border: 1px solid rgba(236.00000113248825,236.00000113248825,236.00000113248825,1);
+}
+.AdminProfileUI_AdminProfileUI .Group93 .Line50_1 {
+	position: absolute;
+	left: 107px;
+	top: 382px;
+	width: 150px;
+	height: 0px;
+	border: 1px solid rgba(236.00000113248825,236.00000113248825,236.00000113248825,1);
+}

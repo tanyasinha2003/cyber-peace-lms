@@ -1,0 +1,1897 @@
+
+.AdminCourses_AdminCourses {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(232,237,240,1.00);
+}
+.AdminCourses_AdminCourses .Group43 {
+	position: absolute;
+	left: 288px;
+	top: 148.15283203125px;
+	width: 1112px;
+	height: 58.69481658935547px;
+}
+.AdminCourses_AdminCourses .Group43 .Rectangle120 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1112px;
+	height: 58.69481658935547px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 30px;
+}
+.AdminCourses_AdminCourses .Group43 .Rectangle117 {
+	position: absolute;
+	left: 8px;
+	top: 7.84716796875px;
+	width: 301px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.AdminCourses_AdminCourses .Group43 .All {
+	position: absolute;
+	left: 25px;
+	top: 19.84716796875px;
+	width: 27px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminCourses_AdminCourses .Group43 .Completed {
+	position: absolute;
+	left: 94px;
+	top: 19.84716796875px;
+	width: 103px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminCourses_AdminCourses .Group43 .Active {
+	position: absolute;
+	left: 236px;
+	top: 19.84716796875px;
+	width: 58px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminCourses_AdminCourses .Group43 .Line31 {
+	position: absolute;
+	left: 28px;
+	top: 39.84716796875px;
+	width: 22px;
+	height: 0px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.AdminCourses_AdminCourses .Group43 .Group41 {
+	position: absolute;
+	left: 745px;
+	top: 6.84716796875px;
+	width: 177px;
+	height: 44px;
+}
+.AdminCourses_AdminCourses .Group43 .Group41 .Rectangle118 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 177px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.AdminCourses_AdminCourses .Group43 .Group41 .SortBy {
+	position: absolute;
+	left: 16px;
+	top: 12px;
+	width: 55px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminCourses_AdminCourses .Group43 .Group41 .LastActive {
+	position: absolute;
+	left: 78px;
+	top: 14px;
+	width: 67px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.AdminCourses_AdminCourses .Group43 .Group41 .riarrowdropdownfill {
+	position: absolute;
+	left: 137px;
+	top: 5px;
+	width: 35px;
+	height: 35px;
+}
+.AdminCourses_AdminCourses .Group43 .Group41 .riarrowdropdownfill .Vector {
+	position: absolute;
+	left: 11.666664123535156px;
+	top: 14.5833740234375px;
+	width: 33.33333696637835%;
+	height: 16.666668483189174%;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 {
+	position: absolute;
+	left: 932px;
+	top: 6.84716796875px;
+	width: 171px;
+	height: 46px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Rectangle119 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 171px;
+	height: 44px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Filter {
+	position: absolute;
+	left: 35px;
+	top: 13px;
+	width: 40px;
+	height: 17px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 17.06599998474121px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .mdifilter {
+	position: absolute;
+	left: 18px;
+	top: 15px;
+	width: 17px;
+	height: 17px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .mdifilter .Vector_1 {
+	position: absolute;
+	left: 2.832548141479492px;
+	top: 2.125px;
+	width: 66.67585372924805%;
+	height: 75.01018187578987%;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Free {
+	position: absolute;
+	left: 82px;
+	top: 15px;
+	width: 27px;
+	height: 15px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(145,151,174,1.00);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.628000259399414px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Group14 {
+	position: absolute;
+	left: 125px;
+	top: 0px;
+	width: 35px;
+	height: 46px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Group14 .riarrowdropdownfill_1 {
+	position: absolute;
+	left: 0px;
+	top: 11px;
+	width: 35px;
+	height: 35px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Group14 .riarrowdropdownfill_1 .Vector_2 {
+	position: absolute;
+	left: 11.666671752929688px;
+	top: 14.5833740234375px;
+	width: 33.33333696637835%;
+	height: 16.666668483189174%;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Group14 .riarrowdropdownfill_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 35px;
+	height: 35px;
+}
+.AdminCourses_AdminCourses .Group43 .Group42 .Group14 .riarrowdropdownfill_2 .Vector_3 {
+	position: absolute;
+	left: 11.66666030883789px;
+	top: 14.583292007446289px;
+	width: 33.33333696637835%;
+	height: 16.666668483189174%;
+}
+.AdminCourses_AdminCourses .CourseListing {
+	position: absolute;
+	left: 298px;
+	top: 595px;
+	width: 148px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.3799991607666px;
+}
+.AdminCourses_AdminCourses .Rectangle119_1 {
+	position: absolute;
+	left: 288px;
+	top: 631px;
+	width: 1118px;
+	height: 352px;
+	background: rgba(249,250,251,1.00);
+	border-radius: 20.273473739624023px;
+}
+.AdminCourses_AdminCourses .Group29 {
+	position: absolute;
+	left: 577.91064453125px;
+	top: 696.796875px;
+	width: 147.99635314941406px;
+	height: 27.36918830871582px;
+}
+.AdminCourses_AdminCourses .Group29 .MaleUser {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 25.341840744018555px;
+	height: 25.341840744018555px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group29 .ProfRajSharma {
+	position: absolute;
+	left: 27.36920166015625px;
+	top: 4.054443359375px;
+	width: 120.62716674804688px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Group34 {
+	position: absolute;
+	left: 577.91064453125px;
+	top: 746.466796875px;
+	width: 147.99635314941406px;
+	height: 27.36918830871582px;
+}
+.AdminCourses_AdminCourses .Group34 .MaleUser_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 25.341840744018555px;
+	height: 25.341840744018555px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group34 .ProfRajSharma_1 {
+	position: absolute;
+	left: 27.36920166015625px;
+	top: 4.0546875px;
+	width: 120.62716674804688px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Group29_1 {
+	position: absolute;
+	left: 577.91064453125px;
+	top: 796.13671875px;
+	width: 147.99635314941406px;
+	height: 27.36918830871582px;
+}
+.AdminCourses_AdminCourses .Group29_1 .MaleUser_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 25.341840744018555px;
+	height: 25.341840744018555px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group29_1 .ProfRajSharma_2 {
+	position: absolute;
+	left: 27.36920166015625px;
+	top: 4.0546875px;
+	width: 120.62716674804688px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Name {
+	position: absolute;
+	left: 302.19140625px;
+	top: 654.22265625px;
+	width: 71.97083282470703px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .IntroductiontoCyberSecurity {
+	position: absolute;
+	left: 310.30078125px;
+	top: 698.82421875px;
+	width: 220.98085021972656px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .KaliLinux {
+	position: absolute;
+	left: 952.72216796875px;
+	top: 698.82421875px;
+	width: 69.9434814453125px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Instructor {
+	position: absolute;
+	left: 577.91064453125px;
+	top: 654.22265625px;
+	width: 89.20328521728516px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .Modules {
+	position: absolute;
+	left: 1121.53857421875px;
+	top: 654.22265625px;
+	width: 75.01184844970703px;
+	height: 23.31449317932129px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .TotalUsers {
+	position: absolute;
+	left: 1260px;
+	top: 654px;
+	width: 97px;
+	height: 23px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .Level {
+	position: absolute;
+	left: 800.9189453125px;
+	top: 654.22265625px;
+	width: 56.765724182128906px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .Tools {
+	position: absolute;
+	left: 952.72216796875px;
+	top: 654.22265625px;
+	width: 54.73837661743164px;
+	height: 23.31449317932129px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 16.218778610229492px;
+	font-weight: 500;
+	line-height: 19.77069091796875px;
+}
+.AdminCourses_AdminCourses .Line44 {
+	position: absolute;
+	left: 308.2734375px;
+	top: 686.66015625px;
+	width: 1060.3026123046875px;
+	height: 0px;
+	border: 1.0136736631393433px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.AdminCourses_AdminCourses .Line46 {
+	position: absolute;
+	left: 308.2734375px;
+	top: 686.66015625px;
+	width: 1060.3026123046875px;
+	height: 0px;
+	border: 1.0136736631393433px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.AdminCourses_AdminCourses .EthicalHackingEssentials {
+	position: absolute;
+	left: 314.35546875px;
+	top: 748.494140625px;
+	width: 186.5159454345703px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .OpenVAS {
+	position: absolute;
+	left: 949.68115234375px;
+	top: 748.494140625px;
+	width: 77.03919982910156px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses ._12modules {
+	position: absolute;
+	left: 1121.53857421875px;
+	top: 748.494140625px;
+	width: 84.1349105834961px;
+	height: 23.31449317932129px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses ._5modules {
+	position: absolute;
+	left: 1121.53857421875px;
+	top: 698.82421875px;
+	width: 87.17593383789062px;
+	height: 23.31449317932129px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Line47 {
+	position: absolute;
+	left: 309.287109375px;
+	top: 734.302734375px;
+	width: 1061.3162841796875px;
+	height: 0px;
+	border: 1.0136736631393433px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.AdminCourses_AdminCourses .NetworkScanning {
+	position: absolute;
+	left: 313.341796875px;
+	top: 798.1640625px;
+	width: 137.859619140625px;
+	height: 16.218778610229492px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .AngryIPScanner {
+	position: absolute;
+	left: 949.68115234375px;
+	top: 798.1640625px;
+	width: 131.77757263183594px;
+	height: 23.31449317932129px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses ._13modules {
+	position: absolute;
+	left: 1121.53857421875px;
+	top: 798.1640625px;
+	width: 100.35369110107422px;
+	height: 23.31449317932129px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Line48 {
+	position: absolute;
+	left: 309.287109375px;
+	top: 780.931640625px;
+	width: 1061.3162841796875px;
+	height: 0px;
+	border: 1.0136736631393433px solid rgba(217.0000022649765,217.0000022649765,217.0000022649765,1);
+}
+.AdminCourses_AdminCourses .Group33 {
+	position: absolute;
+	left: 808.0146484375px;
+	top: 698.82421875px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group33 .Rectangle132 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	background: rgba(255,222,105,1.00);
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group33 .Medium {
+	position: absolute;
+	left: 5.06829833984375px;
+	top: 3.040771484375px;
+	width: 72.98450469970703px;
+	height: 16.218778610229492px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Group32 {
+	position: absolute;
+	left: 809.0283203125px;
+	top: 748.494140625px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group32 .Rectangle150 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	background: rgba(255,114,102,1.00);
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group32 .Hard {
+	position: absolute;
+	left: 5.06829833984375px;
+	top: 2.5341796875px;
+	width: 72.98450469970703px;
+	height: 18.246126174926758px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Group31 {
+	position: absolute;
+	left: 809.0283203125px;
+	top: 798.1640625px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group31 .Rectangle188 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 81.0938949584961px;
+	height: 23.31449317932129px;
+	background: rgba(163,222,166,1.00);
+	border-radius: 5.068368434906006px;
+}
+.AdminCourses_AdminCourses .Group31 .Easy {
+	position: absolute;
+	left: 24.328094482421875px;
+	top: 2.5341796875px;
+	width: 35.47857666015625px;
+	height: 18.246126174926758px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 14.191431045532227px;
+	font-weight: 400;
+	line-height: 17.299354553222656px;
+}
+.AdminCourses_AdminCourses .Group37 {
+	position: absolute;
+	left: 294px;
+	top: 226px;
+	width: 262.3179931640625px;
+	height: 344px;
+}
+.AdminCourses_AdminCourses .Group37 .Rectangle121 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.3179931640625px;
+	height: 344px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.AdminCourses_AdminCourses .Group37 .Group36 {
+	position: absolute;
+	left: 21.046875px;
+	top: 315.343017578125px;
+	width: 221.3939666748047px;
+	height: 11.490234375px;
+}
+.AdminCourses_AdminCourses .Group37 .Group36 .Days412 {
+	position: absolute;
+	left: 182.39398193359375px;
+	top: 0px;
+	width: 39px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group37 .Group36 .Completed45 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group37 .image4 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 22.933349609375px;
+	width: 230.00344848632812px;
+	height: 141.96824645996094px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.AdminCourses_AdminCourses .Group37 .IntroductiontoCyberSecurity_1 {
+	position: absolute;
+	left: 19.958984375px;
+	top: 178.006591796875px;
+	width: 234.75558471679688px;
+	height: 50.557029724121094px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18.058120727539062px;
+	font-weight: 600;
+	line-height: 22.012847900390625px;
+}
+.AdminCourses_AdminCourses .Group37 ._45 {
+	position: absolute;
+	left: 225.16015625px;
+	top: 275.2000732421875px;
+	width: 14px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group37 ._12days {
+	position: absolute;
+	left: 142.455078125px;
+	top: 275.2000732421875px;
+	width: 40px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group37 .Group8 {
+	position: absolute;
+	left: 18.05859375px;
+	top: 270.83154296875px;
+	width: 97.42988586425781px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group37 .Group8 ._5modules_1 {
+	position: absolute;
+	left: 16.23876953125px;
+	top: 2.3328857421875px;
+	width: 81.19132995605469px;
+	height: 20.036306381225586px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group37 .Group8 .materialsymbolslighttopicoutlinerounded {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.32761573791504px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group37 .Group8 .materialsymbolslighttopicoutlinerounded .Vector_4 {
+	position: absolute;
+	left: 2.7916259765625px;
+	top: 5.101806640625px;
+	width: 75.00002776330052%;
+	height: 58.33329893346117%;
+}
+.AdminCourses_AdminCourses .Group37 .fluentpeople24regular {
+	position: absolute;
+	left: 196.74365234375px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group37 .fluentpeople24regular .Vector_5 {
+	position: absolute;
+	left: 1.775634765625px;
+	top: 4.081298828125px;
+	width: 83.33748881108531%;
+	height: 70.83332716731852%;
+}
+.AdminCourses_AdminCourses .Group37 .nimbuscalendardays {
+	position: absolute;
+	left: 115.939453125px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group37 .nimbuscalendardays .Vector_6 {
+	position: absolute;
+	left: 0.66522216796875px;
+	top: 2.2957763671875px;
+	width: 93.74998545731943%;
+	height: 81.24999269814033%;
+}
+.AdminCourses_AdminCourses .Group37 .nimbuscalendardays .Vector_7 {
+	position: absolute;
+	left: 3.99542236328125px;
+	top: 12.243896484375px;
+	width: 61.87500704760674%;
+	height: 22.499985396280685%;
+}
+.AdminCourses_AdminCourses .Group37 .byAlamLin {
+	position: absolute;
+	left: 43.7197265625px;
+	top: 238.070068359375px;
+	width: 79px;
+	height: 18.384374618530273px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 13.305984497070312px;
+	font-weight: 400;
+	line-height: 16.219995498657227px;
+}
+.AdminCourses_AdminCourses .Group37 .Group16 {
+	position: absolute;
+	left: 21.046875px;
+	top: 303.7315673828125px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group37 .Group16 .Rectangle187 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group37 .Group16 .Rectangle189 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105.64884948730469px;
+	height: 8.016518592834473px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group37 .MaleUser_3 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 233.70166015625px;
+	width: 24.71111488342285px;
+	height: 28.39365005493164px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group38 {
+	position: absolute;
+	left: 579.12841796875px;
+	top: 226px;
+	width: 262.3179931640625px;
+	height: 344px;
+}
+.AdminCourses_AdminCourses .Group38 .Rectangle121_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.3179931640625px;
+	height: 344px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.AdminCourses_AdminCourses .Group38 .Group36_1 {
+	position: absolute;
+	left: 21.04736328125px;
+	top: 315.343017578125px;
+	width: 221.39390563964844px;
+	height: 11.490293502807617px;
+}
+.AdminCourses_AdminCourses .Group38 .Group36_1 .Days412_1 {
+	position: absolute;
+	left: 182.39404296875px;
+	top: 0.000244140625px;
+	width: 39px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group38 .Group36_1 .Completed45_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group38 .image4_1 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 22.933349609375px;
+	width: 230.00344848632812px;
+	height: 141.96824645996094px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.AdminCourses_AdminCourses .Group38 .IntroductiontoCyberSecurity_2 {
+	position: absolute;
+	left: 19.958984375px;
+	top: 178.006591796875px;
+	width: 234.75558471679688px;
+	height: 50.557029724121094px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18.058120727539062px;
+	font-weight: 600;
+	line-height: 22.012847900390625px;
+}
+.AdminCourses_AdminCourses .Group38 ._45_1 {
+	position: absolute;
+	left: 225.16015625px;
+	top: 275.2000732421875px;
+	width: 14px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group38 ._12days_1 {
+	position: absolute;
+	left: 142.455078125px;
+	top: 275.2000732421875px;
+	width: 40px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group38 .Group8_1 {
+	position: absolute;
+	left: 18.05810546875px;
+	top: 270.83154296875px;
+	width: 97.4293441772461px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group38 .Group8_1 ._5modules_2 {
+	position: absolute;
+	left: 16.23779296875px;
+	top: 2.3328857421875px;
+	width: 81.19132995605469px;
+	height: 20.036306381225586px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group38 .Group8_1 .materialsymbolslighttopicoutlinerounded_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.32761573791504px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group38 .Group8_1 .materialsymbolslighttopicoutlinerounded_1 .Vector_8 {
+	position: absolute;
+	left: 2.7904052734375px;
+	top: 5.101806640625px;
+	width: 75.00002776330052%;
+	height: 58.33329893346117%;
+}
+.AdminCourses_AdminCourses .Group38 .fluentpeople24regular_1 {
+	position: absolute;
+	left: 196.7431640625px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group38 .fluentpeople24regular_1 .Vector_9 {
+	position: absolute;
+	left: 1.775909423828125px;
+	top: 4.081298828125px;
+	width: 83.33748881108531%;
+	height: 70.83332716731852%;
+}
+.AdminCourses_AdminCourses .Group38 .nimbuscalendardays_1 {
+	position: absolute;
+	left: 115.93896484375px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group38 .nimbuscalendardays_1 .Vector_10 {
+	position: absolute;
+	left: 0.66552734375px;
+	top: 2.2957763671875px;
+	width: 93.74998545731943%;
+	height: 81.24999269814033%;
+}
+.AdminCourses_AdminCourses .Group38 .nimbuscalendardays_1 .Vector_11 {
+	position: absolute;
+	left: 3.9957275390625px;
+	top: 12.243896484375px;
+	width: 61.87500704760674%;
+	height: 22.499985396280685%;
+}
+.AdminCourses_AdminCourses .Group38 .byAlamLin_1 {
+	position: absolute;
+	left: 43.71923828125px;
+	top: 238.070068359375px;
+	width: 79px;
+	height: 18.384374618530273px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 13.305984497070312px;
+	font-weight: 400;
+	line-height: 16.219995498657227px;
+}
+.AdminCourses_AdminCourses .Group38 .Group16_1 {
+	position: absolute;
+	left: 21.04736328125px;
+	top: 303.73095703125px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group38 .Group16_1 .Rectangle187_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group38 .Group16_1 .Rectangle189_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105.64884948730469px;
+	height: 8.016518592834473px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group38 .MaleUser_4 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 233.70166015625px;
+	width: 24.71111488342285px;
+	height: 28.39365005493164px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group39 {
+	position: absolute;
+	left: 858.5537109375px;
+	top: 226px;
+	width: 262.3179931640625px;
+	height: 344px;
+}
+.AdminCourses_AdminCourses .Group39 .Rectangle121_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.3179931640625px;
+	height: 344px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.AdminCourses_AdminCourses .Group39 .Group36_2 {
+	position: absolute;
+	left: 21.0478515625px;
+	top: 315.343017578125px;
+	width: 221.3941650390625px;
+	height: 11.490293502807617px;
+}
+.AdminCourses_AdminCourses .Group39 .Group36_2 .Days412_2 {
+	position: absolute;
+	left: 182.39404296875px;
+	top: 0.000244140625px;
+	width: 39px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group39 .Group36_2 .Completed45_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group39 .image4_2 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 22.933349609375px;
+	width: 230.00344848632812px;
+	height: 141.96824645996094px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.AdminCourses_AdminCourses .Group39 .IntroductiontoCyberSecurity_3 {
+	position: absolute;
+	left: 19.958984375px;
+	top: 178.006591796875px;
+	width: 234.75558471679688px;
+	height: 50.557029724121094px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18.058120727539062px;
+	font-weight: 600;
+	line-height: 22.012847900390625px;
+}
+.AdminCourses_AdminCourses .Group39 ._45_2 {
+	position: absolute;
+	left: 225.16015625px;
+	top: 275.2000732421875px;
+	width: 14px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group39 ._12days_2 {
+	position: absolute;
+	left: 142.455078125px;
+	top: 275.2000732421875px;
+	width: 40px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group39 .Group8_2 {
+	position: absolute;
+	left: 18.05810546875px;
+	top: 270.83154296875px;
+	width: 97.42961120605469px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group39 .Group8_2 ._5modules_3 {
+	position: absolute;
+	left: 16.23828125px;
+	top: 2.3328857421875px;
+	width: 81.19132995605469px;
+	height: 20.036306381225586px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group39 .Group8_2 .materialsymbolslighttopicoutlinerounded_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.32761573791504px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group39 .Group8_2 .materialsymbolslighttopicoutlinerounded_2 .Vector_12 {
+	position: absolute;
+	left: 2.790679931640625px;
+	top: 5.101806640625px;
+	width: 75.00002776330052%;
+	height: 58.33329893346117%;
+}
+.AdminCourses_AdminCourses .Group39 .fluentpeople24regular_2 {
+	position: absolute;
+	left: 196.74365234375px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group39 .fluentpeople24regular_2 .Vector_13 {
+	position: absolute;
+	left: 1.7756805419921875px;
+	top: 4.081298828125px;
+	width: 83.33748881108531%;
+	height: 70.83332716731852%;
+}
+.AdminCourses_AdminCourses .Group39 .nimbuscalendardays_2 {
+	position: absolute;
+	left: 115.939453125px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group39 .nimbuscalendardays_2 .Vector_14 {
+	position: absolute;
+	left: 0.665313720703125px;
+	top: 2.2957763671875px;
+	width: 93.74998545731943%;
+	height: 81.24999269814033%;
+}
+.AdminCourses_AdminCourses .Group39 .nimbuscalendardays_2 .Vector_15 {
+	position: absolute;
+	left: 3.9954986572265625px;
+	top: 12.243896484375px;
+	width: 61.87500704760674%;
+	height: 22.499985396280685%;
+}
+.AdminCourses_AdminCourses .Group39 .byAlamLin_2 {
+	position: absolute;
+	left: 43.72021484375px;
+	top: 238.070068359375px;
+	width: 79px;
+	height: 18.384374618530273px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 13.305984497070312px;
+	font-weight: 400;
+	line-height: 16.219995498657227px;
+}
+.AdminCourses_AdminCourses .Group39 .Group16_2 {
+	position: absolute;
+	left: 21.0478515625px;
+	top: 303.73095703125px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group39 .Group16_2 .Rectangle187_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group39 .Group16_2 .Rectangle189_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105.64884948730469px;
+	height: 8.016518592834473px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group39 .MaleUser_5 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 233.70166015625px;
+	width: 24.71111488342285px;
+	height: 28.39365005493164px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group40 {
+	position: absolute;
+	left: 1143.68212890625px;
+	top: 226px;
+	width: 262.3179931640625px;
+	height: 344px;
+}
+.AdminCourses_AdminCourses .Group40 .Rectangle121_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.3179931640625px;
+	height: 344px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19.008548736572266px;
+}
+.AdminCourses_AdminCourses .Group40 .Group36_3 {
+	position: absolute;
+	left: 21.0478515625px;
+	top: 315.343017578125px;
+	width: 221.39398193359375px;
+	height: 11.490293502807617px;
+}
+.AdminCourses_AdminCourses .Group40 .Group36_3 .Days412_3 {
+	position: absolute;
+	left: 182.39404296875px;
+	top: 0.000244140625px;
+	width: 39px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group40 .Group36_3 .Completed45_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65px;
+	height: 11.490234375px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 7.97349739074707px;
+	font-weight: 400;
+	line-height: 9.719693183898926px;
+}
+.AdminCourses_AdminCourses .Group40 .image4_3 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 22.933349609375px;
+	width: 230.00344848632812px;
+	height: 141.96824645996094px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 9.504274368286133px;
+}
+.AdminCourses_AdminCourses .Group40 .IntroductiontoCyberSecurity_4 {
+	position: absolute;
+	left: 19.958984375px;
+	top: 178.006591796875px;
+	width: 234.75558471679688px;
+	height: 50.557029724121094px;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 18.058120727539062px;
+	font-weight: 600;
+	line-height: 22.012847900390625px;
+}
+.AdminCourses_AdminCourses .Group40 ._45_3 {
+	position: absolute;
+	left: 225.16064453125px;
+	top: 275.2000732421875px;
+	width: 14px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group40 ._12days_3 {
+	position: absolute;
+	left: 142.455078125px;
+	top: 275.2000732421875px;
+	width: 40px;
+	height: 16.086328506469727px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group40 .Group8_3 {
+	position: absolute;
+	left: 18.05810546875px;
+	top: 270.83154296875px;
+	width: 97.4293441772461px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group40 .Group8_3 ._5modules_4 {
+	position: absolute;
+	left: 16.23779296875px;
+	top: 2.3328857421875px;
+	width: 81.19132995605469px;
+	height: 20.036306381225586px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 11.16380786895752px;
+	font-weight: 500;
+	line-height: 13.608681678771973px;
+}
+.AdminCourses_AdminCourses .Group40 .Group8_3 .materialsymbolslighttopicoutlinerounded_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.32761573791504px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group40 .Group8_3 .materialsymbolslighttopicoutlinerounded_3 .Vector_16 {
+	position: absolute;
+	left: 2.7905006408691406px;
+	top: 5.101806640625px;
+	width: 75.00002776330052%;
+	height: 58.33329893346117%;
+}
+.AdminCourses_AdminCourses .Group40 .fluentpeople24regular_3 {
+	position: absolute;
+	left: 196.74365234375px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group40 .fluentpeople24regular_3 .Vector_17 {
+	position: absolute;
+	left: 1.775482177734375px;
+	top: 4.081298828125px;
+	width: 83.33748881108531%;
+	height: 70.83332716731852%;
+}
+.AdminCourses_AdminCourses .Group40 .nimbuscalendardays_3 {
+	position: absolute;
+	left: 115.939453125px;
+	top: 270.831787109375px;
+	width: 21.312725067138672px;
+	height: 24.488821029663086px;
+}
+.AdminCourses_AdminCourses .Group40 .nimbuscalendardays_3 .Vector_18 {
+	position: absolute;
+	left: 0.6651229858398438px;
+	top: 2.2957763671875px;
+	width: 93.74998545731943%;
+	height: 81.24999269814033%;
+}
+.AdminCourses_AdminCourses .Group40 .nimbuscalendardays_3 .Vector_19 {
+	position: absolute;
+	left: 3.9953155517578125px;
+	top: 12.243896484375px;
+	width: 61.87500704760674%;
+	height: 22.499985396280685%;
+}
+.AdminCourses_AdminCourses .Group40 .byAlamLin_3 {
+	position: absolute;
+	left: 43.7197265625px;
+	top: 238.070068359375px;
+	width: 79px;
+	height: 18.384374618530273px;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 13.305984497070312px;
+	font-weight: 400;
+	line-height: 16.219995498657227px;
+}
+.AdminCourses_AdminCourses .Group40 .Group16_3 {
+	position: absolute;
+	left: 21.0478515625px;
+	top: 303.73095703125px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group40 .Group16_3 .Rectangle187_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 222.26126098632812px;
+	height: 8.016518592834473px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group40 .Group16_3 .Rectangle189_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105.64884948730469px;
+	height: 8.016518592834473px;
+	background: rgba(80,200,120,1.00);
+	border-radius: 19.933744430541992px;
+}
+.AdminCourses_AdminCourses .Group40 .MaleUser_6 {
+	position: absolute;
+	left: 16.1572265625px;
+	top: 233.70166015625px;
+	width: 24.71111488342285px;
+	height: 28.39365005493164px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group64 {
+	position: absolute;
+	left: 278px;
+	top: 44px;
+	width: 1100px;
+	height: 63px;
+}
+.AdminCourses_AdminCourses .Group64 .Rectangle72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 561px;
+	height: 63px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 30px;
+}
+.AdminCourses_AdminCourses .Group64 .Search {
+	position: absolute;
+	left: 18px;
+	top: 15px;
+	width: 41px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group64 .Search_1 {
+	position: absolute;
+	left: 77px;
+	top: 20px;
+	width: 69px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.3799991607666px;
+}
+.AdminCourses_AdminCourses .Group64 .MaleUser_7 {
+	position: absolute;
+	left: 1060px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group64 .Doorbell {
+	position: absolute;
+	left: 968px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Rectangle72_1 {
+	position: absolute;
+	left: 27px;
+	top: 44px;
+	width: 227px;
+	height: 939px;
+	background: rgba(39,48,67,1.00);
+	border-radius: 25.20362091064453px;
+}
+.AdminCourses_AdminCourses .Rectangle115 {
+	position: absolute;
+	left: 62.28515625px;
+	top: 245.9775390625px;
+	width: 155.42233276367188px;
+	height: 44.526397705078125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 25.20362091064453px;
+}
+.AdminCourses_AdminCourses .Dashboard {
+	position: absolute;
+	left: 81.6083984375px;
+	top: 196.05859375px;
+	width: 117px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminCourses_AdminCourses .CyberPeaceFoundation {
+	position: absolute;
+	left: 35px;
+	top: 69px;
+	width: 210.03016662597656px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Barlow;
+	font-size: 21.00301742553711px;
+	font-weight: 700;
+	line-height: 25.203622817993164px;
+}
+.AdminCourses_AdminCourses .Courses {
+	position: absolute;
+	left: 98.41015625px;
+	top: 254.86767578125px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminCourses_AdminCourses .Community {
+	position: absolute;
+	left: 77.4072265625px;
+	top: 313.67578125px;
+	width: 126px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminCourses_AdminCourses .Calendar {
+	position: absolute;
+	left: 92.529296875px;
+	top: 372.48388671875px;
+	width: 95px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 21.00301742553711px;
+	font-weight: 400;
+	line-height: 25.602678298950195px;
+}
+.AdminCourses_AdminCourses .Group95 {
+	position: absolute;
+	left: 510px;
+	top: 234px;
+	width: 40px;
+	height: 40px;
+}
+.AdminCourses_AdminCourses .Group95 .Ellipse10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 40px;
+	height: 40px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.AdminCourses_AdminCourses .Group95 .Edit {
+	position: absolute;
+	left: 10px;
+	top: 9px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group96 {
+	position: absolute;
+	left: 800px;
+	top: 234px;
+	width: 607px;
+	height: 40px;
+}
+.AdminCourses_AdminCourses .Group96 .Ellipse10_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 40px;
+	height: 40px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.AdminCourses_AdminCourses .Group96 .Edit_1 {
+	position: absolute;
+	left: 10px;
+	top: 9px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 {
+	position: absolute;
+	left: 278px;
+	top: 0px;
+	width: 329px;
+	height: 40px;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 .Ellipse10_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 40px;
+	height: 40px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 .Edit_2 {
+	position: absolute;
+	left: 10px;
+	top: 9px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 .Group95_2 {
+	position: absolute;
+	left: 289px;
+	top: 0px;
+	width: 40px;
+	height: 40px;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 .Group95_2 .Ellipse10_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 40px;
+	height: 40px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.AdminCourses_AdminCourses .Group96 .Group95_1 .Group95_2 .Edit_3 {
+	position: absolute;
+	left: 10px;
+	top: 9px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AdminCourses_AdminCourses .Rectangle211 {
+	position: absolute;
+	left: 1280px;
+	top: 588px;
+	width: 115px;
+	height: 26px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19px;
+}
+.AdminCourses_AdminCourses .Add {
+	position: absolute;
+	left: 1311px;
+	top: 590px;
+	width: 36px;
+	height: 21px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(39,48,67,1.00);
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 20.722999572753906px;
+}
+.AdminCourses_AdminCourses .icbaselineadd {
+	position: absolute;
+	left: 1356px;
+	top: 590px;
+	width: 20px;
+	height: 20px;
+}
+.AdminCourses_AdminCourses .icbaselineadd .Vector_20 {
+	position: absolute;
+	left: 4.1666717529296875px;
+	top: 4.1666259765625px;
+	width: 58.33333015441895%;
+	height: 58.33333015441895%;
+}
