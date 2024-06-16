@@ -5,7 +5,18 @@ import {Link} from 'react-router-dom'
 
 import bg from '../assets/images/bg.png'
 
+import { useNavigate } from 'react-router-dom'
+
 const Login =() =>{
+
+	const navigate = useNavigate();
+
+	const handleLogin = () => {
+	  
+	  navigate('/dashboard'); 
+	};
+  
+
 	return (<>
 		<img src={bg} alt="Login" className='bg'/>
 		<div className="login-container">
@@ -31,7 +42,7 @@ const Login =() =>{
 		  <div className="forgot-password">
 			Forgot Password?
 		  </div>
-		  <button className="login-button">Login</button>
+		  <button className="login-button" onClick={handleLogin}>Login</button>
 		  <div className="or">OR</div>
 		  <div className="google-login">
 			<img src="path/to/google-logo.png" alt="Google logo" />
