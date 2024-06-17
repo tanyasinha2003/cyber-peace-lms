@@ -228,5 +228,6 @@ export default function Courses () {
 				<span className='Calendar'>Calendar </span>
 			</Link>
 		</div>
+		
 	)
 }
