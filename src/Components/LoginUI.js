@@ -4,6 +4,7 @@ import ImgAsset from '../public'
 import {Link} from 'react-router-dom'
 
 import bg from '../assets/images/bg.png'
+import googleLogo from '../assets/images/google-logo.jpg'
 
 import { useNavigate } from 'react-router-dom'
 
@@ -34,10 +35,10 @@ const Login =() =>{
 			</label>
 		  </div>
 		  <div className="input-group">
-			<input type="text" placeholder="USERNAME" />
+			<input type="text" placeholder="USERNAME" className='input-field'/>
 		  </div>
 		  <div className="input-group">
-			<input type="password" placeholder="PASSWORD" />
+			<input type="password" placeholder="PASSWORD"  className='input-field' />
 		  </div>
 		  <div className="forgot-password">
 			Forgot Password?
@@ -45,7 +46,8 @@ const Login =() =>{
 		  <button className="login-button" onClick={handleLogin}>Login</button>
 		  <div className="or">OR</div>
 		  <div className="google-login">
-			<img src="path/to/google-logo.png" alt="Google logo" />
+		  
+			<img src={googleLogo} alt="Google logo" className='google-logo' />
 			Log in with Google
 		  </div>
 		</div>
